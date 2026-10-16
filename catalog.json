@@ -1,0 +1,164 @@
+{
+  "schemaVersion": 1,
+  "publisher": "Codex",
+  "minimumToolboxVersion": "0.32.12",
+  "plugins": [
+    {
+      "id": "arctis-nova-5-battery",
+      "name": "Arctis Nova 5 电量监控",
+      "description": "开启会立即显示耳机电量托盘图标并加入开机自启动；停用会退出监控并取消自启动。",
+      "category": "硬件",
+      "icon": "▰",
+      "accent": "#38bdf8",
+      "moduleVersion": "1.0.3",
+      "developers": [
+        "Doorham",
+        "DRHW"
+      ],
+      "package": "packages/arctis-nova-5-battery/1.0.3.zip",
+      "sha256": "dce5170e1157d8ea2f97a966102a4e870f991e69b3564804850d6ce927c9f773",
+      "bytes": 14000
+    },
+    {
+      "id": "cn-proxy-bypass",
+      "name": "国内网站直连",
+      "description": "同时兼容 Aurora 与 Clash Verge Rev，让指定国内网站和应用服务直接连接。白名单会持久写入 Clash 的系统代理绕过配置，订阅更新和代理重启不会将其清除。",
+      "category": "网络",
+      "icon": "↗",
+      "accent": "#f59e0b",
+      "moduleVersion": "1.2.14",
+      "developers": [
+        "Doorham",
+        "Althy",
+        "Oreo",
+        "DRHW",
+        "Codex",
+        "Kimi"
+      ],
+      "package": "packages/cn-proxy-bypass/1.2.14.zip",
+      "sha256": "1a2164022e02dc1f1b02b85abc0bd643c519a04f7db01f343fba34f58f49a5be",
+      "bytes": 6949
+    },
+    {
+      "id": "codex-answer-chime",
+      "name": "Codex 完成提示音",
+      "description": "开启后由同一后台助手监听 Codex 与 Kimi 的回答完成事件并播放指定提示音；加入开机自启，停用后退出并取消自启。Kimi 历史完成记录不补响，重复状态写入不重复响。",
+      "category": "Agent 联动",
+      "icon": "♫",
+      "accent": "#8b5cf6",
+      "moduleVersion": "1.1.1",
+      "developers": [
+        "Doorham",
+        "Althy",
+        "DRHW",
+        "Codex"
+      ],
+      "package": "packages/codex-answer-chime/1.1.1.zip",
+      "sha256": "65a887fe436ecd08c3e2a8b6aaec2eacfd8b6bff33e426eb81b576ce482302ef",
+      "bytes": 15118
+    },
+    {
+      "id": "codex-environment-helper",
+      "name": "Codex 环境补全",
+      "description": "检测并自助补全 PowerShell、Terminal、Git、FFmpeg、LibreOffice、.NET SDK、x64 桌面运行时、WebView2 与 Python 依赖；UTF-8 修改前备份并支持回滚。",
+      "category": "开发环境",
+      "icon": "+",
+      "accent": "#3b82f6",
+      "moduleVersion": "1.5.1",
+      "developers": [
+        "Althy",
+        "Doorham",
+        "DRHW"
+      ],
+      "package": "packages/codex-environment-helper/1.5.1.zip",
+      "sha256": "c9ef54cab5067c38b1c4a18f90cdb54b06f00fd69658c11001b2f06328adae50",
+      "bytes": 462506
+    },
+    {
+      "id": "codex-system-proxy",
+      "name": "Codex 对话 timeout 修复",
+      "description": "修复 Codex 未遵循 Windows 系统代理这一类 timeout，并独立检测 WebSocket。已配置时不再重复显示修复按钮；代理线路异常需要单独排查。",
+      "category": "系统",
+      "icon": "↗",
+      "accent": "#22c55e",
+      "moduleVersion": "1.1.1",
+      "developers": [
+        "Althy",
+        "DRHW"
+      ],
+      "package": "packages/codex-system-proxy/1.1.1.zip",
+      "sha256": "5274178f48784667f286f207636d4377919474c413d7ccfe83ebe44827af099e",
+      "bytes": 4814
+    },
+    {
+      "id": "software-environment-checker",
+      "name": "软件安装检查",
+      "description": "只读检查开发工具、Python 基础环境和编辑器集成。所有 .NET 与 WebView2 运行依赖统一由 Codex 环境补全管理。",
+      "category": "开发环境",
+      "icon": "✓",
+      "accent": "#22c55e",
+      "moduleVersion": "1.5.1",
+      "developers": [
+        "Althy",
+        "Doorham",
+        "DRHW"
+      ],
+      "package": "packages/software-environment-checker/1.5.1.zip",
+      "sha256": "396cedd657eade6cceb05c6d5d33c0113c3b28c55d8af1b9cac6c9cb42a9c4e4",
+      "bytes": 462477
+    },
+    {
+      "id": "updream-bridge",
+      "name": "UpdreamBridge 图片生成",
+      "description": "配置本机 UpDream 登录，按用户指定模型调用图片生成；含香蕉 2/Pro、Sunburst、Flare、悠船及官方图片模型清单与用法。悠船仅 1K/2K，禁止静默换模型或降级。 图片落盘，只回传状态和路径；展示用本地文件引用，必要质检才看小预览。",
+      "category": "图像工具",
+      "icon": "▧",
+      "accent": "#4653dd",
+      "moduleVersion": "1.2.1",
+      "developers": [
+        "Doorham",
+        "Althy",
+        "DRHW",
+        "Codex"
+      ],
+      "minimumToolboxVersion": "0.32.5",
+      "package": "packages/updream-bridge/1.2.1.zip",
+      "sha256": "b7ae85a2210a905e654fde2ca30e0eab1c46411e8fd69d6c66f64506236ad198",
+      "bytes": 664867
+    },
+    {
+      "id": "updream-clipboard-cleaner",
+      "name": "Updream 剪贴板清理",
+      "description": "开启会立即运行并加入开机自启动；停用会停止程序并取消自启动。复制画布时转换为 Photoshop 可安全读取的标准图片格式。",
+      "category": "剪贴板",
+      "icon": "▣",
+      "accent": "#22c55e",
+      "moduleVersion": "1.0.5",
+      "developers": [
+        "Doorham",
+        "XY",
+        "Althy",
+        "DRHW"
+      ],
+      "package": "packages/updream-clipboard-cleaner/1.0.5.zip",
+      "sha256": "bb47785562cb22b75962e1b4e5aacb5d90283111021f9e82acf1fa15d4b961a3",
+      "bytes": 11022
+    },
+    {
+      "id": "wetype-awesun-bridge",
+      "name": "微信语音输入远程状态监听板",
+      "description": "向日葵中的微信语音文字立即复制到剪贴板；切走隐藏承接板，切回重新承接。开启同时运行并开机自启，关闭停止并取消自启。",
+      "category": "剪贴板",
+      "icon": "assets/plugin-icons/wetype-awesun-bridge.svg",
+      "accent": "#1ac785",
+      "moduleVersion": "1.0.5",
+      "developers": [
+        "Althy",
+        "DRHW"
+      ],
+      "package": "packages/wetype-awesun-bridge/1.0.5.zip",
+      "sha256": "98d2f3b62422928d1a946c03850bdc85d06c312d152887be60e1814853491a1e",
+      "bytes": 13190
+    }
+  ]
+}

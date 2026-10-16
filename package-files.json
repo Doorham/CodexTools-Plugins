@@ -1,0 +1,90 @@
+{
+  "plugins": [
+    {
+      "id": "arctis-nova-5-battery",
+      "version": "1.0.3",
+      "files": {
+        "bin/ArctisNova5BatteryMonitor.exe": "83349078d52178f0307d304b9c82f175489d1e8beb15cf25f47d35128b9337a9",
+        "bin/ArctisNova5StartupGate.exe": "fa24bede77667ca31257c145083a50de1891020ed430ec096d25f8caaeba9c2e",
+        "plugin.json": "57b937b842d75bb7be2ff06ee08b5297d366b1ae69e5b827f9c7087f0a9488d6"
+      }
+    },
+    {
+      "id": "cn-proxy-bypass",
+      "version": "1.2.14",
+      "files": {
+        "CHANGELOG.md": "6efb84f4c2f457ea74328c3577660e55e6933c1569ef83c6e95d2dd452e9f95e",
+        "plugin.json": "2c4491c179ae988fd8a719ba23cfe13ff49942ef6cc716e46cffb53e5d49caf6"
+      }
+    },
+    {
+      "id": "codex-answer-chime",
+      "version": "1.1.1",
+      "files": {
+        "README.md": "794e514704bbb58d36ec8408878cd0fb5e2391c21dfad8fd4f9f899ca3f9a4ab",
+        "bin/CodexAnswerChime.exe": "f62dcc74a33b638cf5770c9a931072ff973d83e6c152b51d5a68ec87b6882a24",
+        "plugin.json": "8eb30eaefe92c70744e4979c9e6589c631dedec31e27272eaf518c8e8cf5c784"
+      }
+    },
+    {
+      "id": "codex-environment-helper",
+      "version": "1.5.1",
+      "files": {
+        "bin/EnvironmentDetector.exe": "8829dc66d7f75cbdf6996f7f29640bf7059ad0ecd8db1b80bf7eb63af9c2556a",
+        "bin/INSTALLER-LIBRARY.lock.json": "0086047c509d11f86bac6244826ae0e1147d0dc8b630a3106d6a4e92deb0e4c6",
+        "bin/THIRD-PARTY-NOTICES.md": "b170a900e88fc2b9c17abf52ac57ddcc10e916bcff6dd09c7f65d0eb9da6cff1",
+        "bin/install-from-library.ps1": "d2482d8ed2576a438f36d5d137014825664e54af108d9beb23eddef0e0a86a49",
+        "plugin.json": "92701f23aa6e3374fb22482cd252b51f65bd33b6f3d695bfaf84c4e2ff5f1e99"
+      }
+    },
+    {
+      "id": "codex-system-proxy",
+      "version": "1.1.1",
+      "files": {
+        "plugin.json": "f04014d383e72475b79fb11eec0ad31ddf82b3c0073cf43e572ba902a9cd9e14"
+      }
+    },
+    {
+      "id": "software-environment-checker",
+      "version": "1.5.1",
+      "files": {
+        "bin/EnvironmentDetector.exe": "8829dc66d7f75cbdf6996f7f29640bf7059ad0ecd8db1b80bf7eb63af9c2556a",
+        "bin/INSTALLER-LIBRARY.lock.json": "0086047c509d11f86bac6244826ae0e1147d0dc8b630a3106d6a4e92deb0e4c6",
+        "bin/THIRD-PARTY-NOTICES.md": "b170a900e88fc2b9c17abf52ac57ddcc10e916bcff6dd09c7f65d0eb9da6cff1",
+        "bin/install-from-library.ps1": "d2482d8ed2576a438f36d5d137014825664e54af108d9beb23eddef0e0a86a49",
+        "plugin.json": "9300d7039a73079acca73707a323a56b141ec45d32738e10b0dab18503994015"
+      }
+    },
+    {
+      "id": "updream-bridge",
+      "version": "1.2.1",
+      "files": {
+        "bin/MODEL-GUIDE.md": "81d7bb664a2787195c58365b398ffd21b1d038e7ca538b402c5392219794ae11",
+        "bin/UpdreamBridgeConfig.exe": "c5e4a665e73c1cc006de8e076c6086cd0de22dcfd2d61bc402df195e05e40f5d",
+        "bin/guide-window.html": "9a3cd673826a4e7280dce6c9d87bd5243d298b8dc41925901b24b330363318a1",
+        "bin/index.html": "cc5fa2e6ef0cf6e2573ea175a5039634ac83b09c2db1e081812b78841e8fa808",
+        "bin/model-catalog.json": "e5230437f9fea3b8f19798429ba0b8201d96cc71546490cbd38892a1fa803d37",
+        "bin/model-guide.html": "d77138ecc09b8095260db72a3a1bda2891392bb90d407c75a50840c027fc7d4a",
+        "bin/setup-guide.png": "6edb727f881190bbc3197196620a72a78b8cd5e5ea06948a279a69a72d2e56f4",
+        "bin/updream_gen.py": "19d7ccd9dc2faba516036a5fa8f9a4617c4149b650974fd748ad834d233ba469",
+        "plugin.json": "c7177925204a965f566d9567e8bc849acb47144301fe430ae902b5998cedb160"
+      }
+    },
+    {
+      "id": "updream-clipboard-cleaner",
+      "version": "1.0.5",
+      "files": {
+        "bin/UpdreamClipboardCleaner.exe": "57363ef7aeb8b422cbd7e8727aa2f3cbcd6e5bd49514d3128654e4219f31cfba",
+        "plugin.json": "e1e1c474a1c999a1babe5e8b93ca5ed315590cc3f4f454d23851608b06752a4d"
+      }
+    },
+    {
+      "id": "wetype-awesun-bridge",
+      "version": "1.0.5",
+      "files": {
+        "bin/WeTypeAweSunBridge.exe": "181c4188251db978a328c17fd67f038f8e6f54e7a72c99ed0272b67e594bd69e",
+        "plugin.json": "eaff02fdfb7db9fa8cc123bc729d0b5fdd9d0e810153b73900ef79e77b96fddb"
+      }
+    }
+  ]
+}
