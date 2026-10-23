@@ -6,16 +6,16 @@ Codex 工具箱安装版的公共插件库。维护署名：Codex、Althy。
 
 | 插件 | 版本 | 下载 |
 | --- | --- | --- |
-| Arctis Nova 5 电量监控 | 1.0.4 | [ZIP](packages/arctis-nova-5-battery/1.0.4.zip) |
-| 国内网站直连 | 1.2.17 | [ZIP](packages/cn-proxy-bypass/1.2.17.zip) |
-| Codex 完成提示音 | 1.1.2 | [ZIP](packages/codex-answer-chime/1.1.2.zip) |
-| Codex 环境补全 | 1.5.4 | [ZIP](packages/codex-environment-helper/1.5.4.zip) |
-| Codex 对话 timeout 修复 | 1.1.2 | [ZIP](packages/codex-system-proxy/1.1.2.zip) |
-| Everything 路径排除 | 1.5.2 | [ZIP](packages/everything-exclusions/1.5.2.zip) |
-| 软件安装检查 | 1.5.4 | [ZIP](packages/software-environment-checker/1.5.4.zip) |
-| UpdreamBridge 图片生成 | 1.2.2 | [ZIP](packages/updream-bridge/1.2.2.zip) |
-| Updream 剪贴板清理 | 1.0.6 | [ZIP](packages/updream-clipboard-cleaner/1.0.6.zip) |
-| 微信语音输入远程状态监听板 | 1.0.7 | [ZIP](packages/wetype-awesun-bridge/1.0.7.zip) |
+| Arctis Nova 5 电量监控 | 1.0.5 | [ZIP](packages/arctis-nova-5-battery/1.0.5.zip) |
+| 国内网站直连 | 1.2.18 | [ZIP](packages/cn-proxy-bypass/1.2.18.zip) |
+| Codex 完成提示音 | 1.1.3 | [ZIP](packages/codex-answer-chime/1.1.3.zip) |
+| Codex 环境补全 | 1.5.5 | [ZIP](packages/codex-environment-helper/1.5.5.zip) |
+| Codex 对话 timeout 修复 | 1.1.3 | [ZIP](packages/codex-system-proxy/1.1.3.zip) |
+| Everything 路径排除 | 1.5.3 | [ZIP](packages/everything-exclusions/1.5.3.zip) |
+| 软件安装检查 | 1.5.5 | [ZIP](packages/software-environment-checker/1.5.5.zip) |
+| UpdreamBridge 图片生成 | 1.2.3 | [ZIP](packages/updream-bridge/1.2.3.zip) |
+| Updream 剪贴板清理 | 1.0.7 | [ZIP](packages/updream-clipboard-cleaner/1.0.7.zip) |
+| 微信语音输入远程状态监听板 | 1.0.8 | [ZIP](packages/wetype-awesun-bridge/1.0.8.zip) |
 
 同一插件在公司源与 GitHub 同时存在时只显示一项，采用较新版本，同版本优先公司源。已装同版或更高版本不会重复下载或降级。更新沿用原有启停、声音、自启与本机设置保留流程。
 
@@ -30,3 +30,5 @@ Codex 工具箱安装版的公共插件库。维护署名：Codex、Althy。
 本次同步与验证范围见 [2026-10-23 发布记录](RELEASES/2026-10-23.md)。
 
 本轮图标更新见 [2026-10-24 图标交付记录](RELEASES/2026-10-24-icons.md)。
+
+本轮图标更新见 [2026-10-24 图标交付记录](RELEASES/2026-10-24-vector-icons.md)。
