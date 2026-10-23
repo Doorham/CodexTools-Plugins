@@ -2,64 +2,101 @@
   "plugins": [
     {
       "id": "arctis-nova-5-battery",
-      "version": "1.0.3",
+      "version": "1.0.4",
       "files": {
+        "DEVLOG.md": "640bda626f2e226f4906478e51b7b38309ae4cf55898efc54aa8990dffa1e41c",
+        "LICENSE": "1eb85fc97224598dad1852b5d6483bbcf0aa8608790dcc657a5a2a761ae9c8c6",
+        "artwork/ARTWORK.json": "89c2e6f009a7248ca6d4b5da8a74ab8dbd6c45ef7f3862c0006f1af109aaf02c",
+        "artwork/background.png": "0c6226d5f852f839497fd2ffa644404ac3c26a73d1073af9b1c2e2a213e5277a",
+        "artwork/icon.png": "38582748fc128b1a51c13e094891f5875c475b0fbaf2ce484429271144cda306",
+        "artwork/icon.svg": "4a15ccde35f7622234719833a5fcb1e375b91616babd3bad7c63e6e76c706918",
+        "artwork/prompt.txt": "f7afc5e5c9c740e5e1a12490f610ab1d37fda33630c34a748b54b6c87e4cb137",
         "bin/ArctisNova5BatteryMonitor.exe": "83349078d52178f0307d304b9c82f175489d1e8beb15cf25f47d35128b9337a9",
         "bin/ArctisNova5StartupGate.exe": "fa24bede77667ca31257c145083a50de1891020ed430ec096d25f8caaeba9c2e",
-        "plugin.json": "57b937b842d75bb7be2ff06ee08b5297d366b1ae69e5b827f9c7087f0a9488d6"
+        "plugin.json": "3832bfb5ea76a7ec4f6864774a69519218f1f5e0246d792528f9674bc81b3d55"
       }
     },
     {
       "id": "cn-proxy-bypass",
-      "version": "1.2.16",
+      "version": "1.2.17",
       "files": {
         "CHANGELOG.md": "8eb945073dbef76637fc982404da15824daea66bf2f4b54a33f9fab15a4634b1",
+        "DEVLOG.md": "9faa0f2f7d0bc7928d9f085dbfb5737f0b87a322842876f9d8746c463fc64480",
         "LICENSE": "1eb85fc97224598dad1852b5d6483bbcf0aa8608790dcc657a5a2a761ae9c8c6",
-        "plugin.json": "d38c668bce669b50e6ea3f566cca59489bcf6d78b7bf3368ef054d3625d70c67"
+        "artwork/ARTWORK.json": "3b08fb2e4f9dbf912053c7463e2b88c992915475437f41649913fa910aaaccd2",
+        "artwork/background.png": "61e9e3f41091c8c5da344c612bea558c6a678e45e70503dd562d5135ad454942",
+        "artwork/icon.png": "474e5ed0212b10291ad338b2ea28bcfd0a0df1f8a79f64493a031fb673ae3a99",
+        "artwork/icon.svg": "5519eec60f194d69dde83b6053b72c45cc345f7d52f586a4cdbd75ceb9d2a65b",
+        "artwork/prompt.txt": "846fd6f58412c56142dc8800ad17fb0a61f839b434ec04356f2e783d88260888",
+        "plugin.json": "a5a1932b8bc9cf1b150e1878153a0db374c0155e0e9a34bbb48171cbef6b9a5b"
       }
     },
     {
       "id": "codex-answer-chime",
-      "version": "1.1.1",
+      "version": "1.1.2",
       "files": {
+        "DEVLOG.md": "ee000afd9ebdde0778964d4b9bf149e0291520a65a3cb30018cb163e9f2f4b93",
+        "LICENSE": "1eb85fc97224598dad1852b5d6483bbcf0aa8608790dcc657a5a2a761ae9c8c6",
         "README.md": "794e514704bbb58d36ec8408878cd0fb5e2391c21dfad8fd4f9f899ca3f9a4ab",
+        "artwork/ARTWORK.json": "03adfc0860461503a1b22ebfff83c36c204f9c90a3bcd462673dd79fabf56380",
+        "artwork/background.png": "2812b2c4485172b343cc1f4cf7de4e73ca0a01a8b6f7b0424ddb648041091dbd",
+        "artwork/icon.png": "da05a8111411e1712a0e7bd9a1266806325772484e405610ed77322a8bf2d7ec",
+        "artwork/icon.svg": "977103d7859df20baa6d18ba270c5be2006d867a9ab7640397af0db69990b7bd",
+        "artwork/prompt.txt": "6edbb5623938393ef335f5b57baa063b8dad3455c99c3c4924bb3f55b134762e",
         "bin/CodexAnswerChime.exe": "f62dcc74a33b638cf5770c9a931072ff973d83e6c152b51d5a68ec87b6882a24",
-        "plugin.json": "8eb30eaefe92c70744e4979c9e6589c631dedec31e27272eaf518c8e8cf5c784"
+        "plugin.json": "5eab1fd5db1b9be60afb650c133ea973150bd9ec9281d3cf0a5a94a8ce21a1d4"
       }
     },
     {
       "id": "codex-environment-helper",
-      "version": "1.5.3",
+      "version": "1.5.4",
       "files": {
-        "DEVLOG.md": "ffe9582b217eb6a4207e6285d3287c0bcd5584237998c23401cd7ea2c8a7cb21",
+        "DEVLOG.md": "59e0027501891f57fe2e3bf303417959b3ea17f099d6b568e7f4c41c203150d9",
         "DOWNLOAD-SOURCES.json": "d1853f7e4a95cfd579a79e7eec02737d68835676d63a509a0df633e8b7cd5190",
         "ENCODING.md": "18a9eb019f99852155008839385d9d0b4f93d075e3f0b95d13548e5538259aa4",
         "LICENSE": "1eb85fc97224598dad1852b5d6483bbcf0aa8608790dcc657a5a2a761ae9c8c6",
+        "artwork/ARTWORK.json": "9bc9b3122a6a95b1431804acfe3e255ef1f7b10528159e6dabefbc1afcbf2088",
+        "artwork/background.png": "0f27da2b142d954b8b57f674f7243dc20223320410347eca79795f02e9195277",
+        "artwork/icon.png": "5e77a599e64a5bdea4aac308400c26b9ec00b988539958aa2a7d5f18aed534a8",
+        "artwork/icon.svg": "412ccd78475f34e14a2f73a845afdf26efde06a44ea7241572e99882d348a88a",
+        "artwork/prompt.txt": "04ddb78038ab626329fde2b95ef633c652c2cf757414a1303593e82f0182afef",
         "bin/EnvironmentDetector.exe": "376918c04894c75c58a77d9fd3ee4b997486f7b1f59acc464a6b98697fe9a120",
         "bin/INSTALLER-LIBRARY.lock.json": "0086047c509d11f86bac6244826ae0e1147d0dc8b630a3106d6a4e92deb0e4c6",
         "bin/THIRD-PARTY-NOTICES.md": "b170a900e88fc2b9c17abf52ac57ddcc10e916bcff6dd09c7f65d0eb9da6cff1",
         "bin/install-from-library.ps1": "0554f655e27988fd730240d3e24e0f01d80529c9340ecb7fc4d8bb405e56f492",
-        "plugin.json": "1d19517110f2fb1bb2f4018cb9250e56450d093dd1b9d37d947bd3d49234cac8"
+        "plugin.json": "6f16ac5e366cf09f78bf7b82bbae567b46022deff0774a308bbffcae848221cb"
       }
     },
     {
       "id": "codex-system-proxy",
-      "version": "1.1.1",
+      "version": "1.1.2",
       "files": {
-        "plugin.json": "f04014d383e72475b79fb11eec0ad31ddf82b3c0073cf43e572ba902a9cd9e14"
+        "DEVLOG.md": "215dca2685cf33d83825c0af03ad825ea824e61635e27cd0c9f2910be6b932ac",
+        "LICENSE": "1eb85fc97224598dad1852b5d6483bbcf0aa8608790dcc657a5a2a761ae9c8c6",
+        "artwork/ARTWORK.json": "f9f0fe591c36bc832771a29a9f29349273266d5e1c239d087f5240831eabe9e2",
+        "artwork/background.png": "6d8711981142eb64a18c16cbf2a4d08d5257b98ec3a07321581fdce3e859552c",
+        "artwork/icon.png": "e54682add5da61fb03073fe11fe509f400f8f5f4b8966162fa601e88d14dca5f",
+        "artwork/icon.svg": "4a4835316bd1478110683d0abc496f10e44e59fc8209cb423453aa891acfc8fc",
+        "artwork/prompt.txt": "a5ee4381cda76dfe7ed0ad1b44a165cee0bf1035ebfc5c186ee0fa78cb10bfe3",
+        "plugin.json": "d044b6b69cc73ca45f88237406c1a299afd38524785c1f37e931761a63d7a44f"
       }
     },
     {
       "id": "everything-exclusions",
-      "version": "1.5.1",
+      "version": "1.5.2",
       "files": {
-        "LICENSE": "c71d239df91726fc519c6eb72d318ec65820627232b2f796219e87dcf35d0ab4",
         "CHANGELOG.json": "fb891dabc7e1e5bb410c6a328ba75d1f1d328cc051e6c208cd5c293db85608cf",
-        "DEVLOG.md": "f856b3a5e7045826e3482b7f72c582759d25df36f3ef0344bde41e2bd681d3a7",
+        "DEVLOG.md": "7e37288f4652c0d4de1491d4daf58b5f8e719bae81aef4774b6cec15c79d1f3b",
+        "LICENSE": "c71d239df91726fc519c6eb72d318ec65820627232b2f796219e87dcf35d0ab4",
         "README.md": "81ad287c6b840a18b38668697c091d1b4bc8ba7f042a535355b22f5ca3bc687c",
         "THIRD-PARTY-NOTICES.md": "6fa2f2d3ca2b263a14fa7d63f594b235979371c3f45e83b688ad57c68116423f",
         "WEBVIEW2-LICENSE.txt": "0af8f1b807512aae39c2ac1aa4d0cae65cabecb6fd554b8439a5162a0d6eca55",
         "WEBVIEW2-NOTICE.txt": "106423785c5b7eba0a8e61d1837f2132e9c828e20ad530f565d981c1df60dd90",
+        "artwork/ARTWORK.json": "440c808ca367b2671c86430e5a4664700135ff64b36c9f680504110e664be948",
+        "artwork/background.png": "6ba711f5854d2422a1cb8c15a62463a3ffe206365b310b8a4ed6cf156d90f63b",
+        "artwork/icon.png": "f4355a2355db80af22799cce28ae68c82164362d1c12eb641517a35bf0944d9a",
+        "artwork/icon.svg": "1504ce58190861d62a9e7bac04f3c4d4a4e73b54d7e10e4dd86ed0610352a7b2",
+        "artwork/prompt.txt": "2d6c1394aaa76822006ad67f390e1b86208f5597d2f54f7b66b8ce3c41f52f74",
         "bin/EverythingExclusions.exe": "9f20158a0bbb48280cd18cbc5adbadd392072422ec7c99eeb2a8365b957fd113",
         "bin/Microsoft.Web.WebView2.Core.dll": "8219a3135436c147f8eb02fb831e99596103eebc18b6d7b794ca93f4c67018a2",
         "bin/Microsoft.Web.WebView2.WinForms.dll": "c48f8d729dc531288d2c53a6241effe7922ed1b947850b2442008a945c098c48",
@@ -67,28 +104,40 @@
         "bin/ui/app.js": "7e8742fe7b35455b71cc9437ebd0642372e06f73585fe2e3d8f68489ea7add2f",
         "bin/ui/index.html": "7a884660e63223d304128fb151f50d1db37f64d3e04a62e225da852a1d504948",
         "bin/ui/style.css": "77bfa2fccfa27ca1076892a6f0006f395aa51359f841da6420ca54035b573980",
-        "plugin.json": "f8e8fd355dcc9f874c9aac7d90b3542cb8b2ad4e1fbac0876fbc18267de887b5"
+        "plugin.json": "4ab77e40db386fdac7349e66779019601ec927e796b5c73230e04549be97c7e8"
       }
     },
     {
       "id": "software-environment-checker",
-      "version": "1.5.3",
+      "version": "1.5.4",
       "files": {
-        "DEVLOG.md": "3f79dd9f837cc782fe91f2863937f3a35d234c7a0b438cff8cf13f34224c63e4",
+        "DEVLOG.md": "1752bcc889dbf4463603a5cf28652463f1748ba3061473e791d64d82ac061af2",
         "DOWNLOAD-SOURCES.json": "d1853f7e4a95cfd579a79e7eec02737d68835676d63a509a0df633e8b7cd5190",
         "ENCODING.md": "18a9eb019f99852155008839385d9d0b4f93d075e3f0b95d13548e5538259aa4",
         "LICENSE": "1eb85fc97224598dad1852b5d6483bbcf0aa8608790dcc657a5a2a761ae9c8c6",
+        "artwork/ARTWORK.json": "f0df8bee1686c757f8a3a63c78327851fb4dfe468c93136464c0ac4c1614ff6b",
+        "artwork/background.png": "09456d531253ed18475b1f3718ad99c33b9895e491e4de6962cec6cfe9a2ea5a",
+        "artwork/icon.png": "1ec8eb8fc462409c576c87380f502daf2f15f31d1eff93dda62fa419e7e51484",
+        "artwork/icon.svg": "111aff6683ef7d692fe4fa8f7029f7b25c33a605f535fd7bf7603d6db7fd9075",
+        "artwork/prompt.txt": "5e57a660ff2e9e93e2035643064c416b67cbeea9709e203f05312afce38bf9ac",
         "bin/EnvironmentDetector.exe": "376918c04894c75c58a77d9fd3ee4b997486f7b1f59acc464a6b98697fe9a120",
         "bin/INSTALLER-LIBRARY.lock.json": "0086047c509d11f86bac6244826ae0e1147d0dc8b630a3106d6a4e92deb0e4c6",
         "bin/THIRD-PARTY-NOTICES.md": "b170a900e88fc2b9c17abf52ac57ddcc10e916bcff6dd09c7f65d0eb9da6cff1",
         "bin/install-from-library.ps1": "0554f655e27988fd730240d3e24e0f01d80529c9340ecb7fc4d8bb405e56f492",
-        "plugin.json": "04a2214bf186632d80bb0c71a9f4f9b1a006905e777d254838648600b160f282"
+        "plugin.json": "f56d0f38fd8012bceccb2bd82195e5758bab40af1481f31579c6f2e0958eeeba"
       }
     },
     {
       "id": "updream-bridge",
-      "version": "1.2.1",
+      "version": "1.2.2",
       "files": {
+        "DEVLOG.md": "a1a9848e20bd11d98b886bdf17352573969e7a7e0f270605b86ea0df144a84ac",
+        "LICENSE": "1eb85fc97224598dad1852b5d6483bbcf0aa8608790dcc657a5a2a761ae9c8c6",
+        "artwork/ARTWORK.json": "35446f545cca54ef9a5126730d759b5b9c9323c82880dcf19a79d2828f20e964",
+        "artwork/background.png": "6e875ec3bf5b4b8607bb530aba7d7e12bd6f2df6288e1edeb14a316154bf6061",
+        "artwork/icon.png": "1e25809959542231be75905f9bf82022cc1c6f762e2d6779b8a95c84306b8df6",
+        "artwork/icon.svg": "c1c950c1adfe2738c85354ebf58422edfffd3d8c5086a2e268ebaccd13c008a8",
+        "artwork/prompt.txt": "08bb612c98abae3915d1d695532fbeb16b297056ecfbdd7a42472fad1f99f531",
         "bin/MODEL-GUIDE.md": "81d7bb664a2787195c58365b398ffd21b1d038e7ca538b402c5392219794ae11",
         "bin/UpdreamBridgeConfig.exe": "c5e4a665e73c1cc006de8e076c6086cd0de22dcfd2d61bc402df195e05e40f5d",
         "bin/guide-window.html": "9a3cd673826a4e7280dce6c9d87bd5243d298b8dc41925901b24b330363318a1",
@@ -97,25 +146,38 @@
         "bin/model-guide.html": "d77138ecc09b8095260db72a3a1bda2891392bb90d407c75a50840c027fc7d4a",
         "bin/setup-guide.png": "6edb727f881190bbc3197196620a72a78b8cd5e5ea06948a279a69a72d2e56f4",
         "bin/updream_gen.py": "19d7ccd9dc2faba516036a5fa8f9a4617c4149b650974fd748ad834d233ba469",
-        "plugin.json": "c7177925204a965f566d9567e8bc849acb47144301fe430ae902b5998cedb160"
+        "plugin.json": "b1ceaa122982057c3200c000fc9e8c36f4a295d61bf3528b29140efe72235552"
       }
     },
     {
       "id": "updream-clipboard-cleaner",
-      "version": "1.0.5",
+      "version": "1.0.6",
       "files": {
+        "DEVLOG.md": "f5d9b5cf24eb3f018055e0fb49cf81b41b99764e1c7edd20db051d39c39a55eb",
+        "LICENSE": "1eb85fc97224598dad1852b5d6483bbcf0aa8608790dcc657a5a2a761ae9c8c6",
+        "artwork/ARTWORK.json": "be3e50ee4fac322477c766d33369ba2f58facc830ee9ec9ebb39e0c4a1412442",
+        "artwork/background.png": "cdf0891f810c1e1c7f378cbd963404522c3b80891c5cbebfb3fa56d51559b59f",
+        "artwork/icon.png": "10aa7a285477926da793593b6a5996f0f1a7555b80e4522c988a49c71cc2b6e5",
+        "artwork/icon.svg": "8f8d0a0e076d3eb3397e3f8cb7f98b2ef02ddcb48161686993ad552beeec12a3",
+        "artwork/prompt.txt": "52b21885c6d3a8aec69c55fd6307b7e17f5eb870d23738678178fc8d976ebabc",
         "bin/UpdreamClipboardCleaner.exe": "57363ef7aeb8b422cbd7e8727aa2f3cbcd6e5bd49514d3128654e4219f31cfba",
-        "plugin.json": "e1e1c474a1c999a1babe5e8b93ca5ed315590cc3f4f454d23851608b06752a4d"
+        "plugin.json": "73fbf9d91c41440be80c2cb4c198243157330ba7bd0b9c1d1c13f4395fad8e69"
       }
     },
     {
       "id": "wetype-awesun-bridge",
-      "version": "1.0.6",
+      "version": "1.0.7",
       "files": {
         "CHANGELOG.md": "b410a897b5611e92d88ff3646badf3566332865de32c6ed84a909c81ecf0e0ee",
+        "DEVLOG.md": "fff66f16a931d63c386271c6fd4af4e5347c7f8dfceb392dd2432cd24a111037",
         "LICENSE": "1eb85fc97224598dad1852b5d6483bbcf0aa8608790dcc657a5a2a761ae9c8c6",
+        "artwork/ARTWORK.json": "055b42e342fc8b227f400d03c5aeb661ac6df54bd801110bb199acea47aabc66",
+        "artwork/background.png": "2a7e403630b2113cdf1a2d05840d48954c819670051117d1dbe0701107434556",
+        "artwork/icon.png": "b76b42f39c98ad1f5fb44c6518110c098e0bb1cd7a4db8d0968565ad9d85a855",
+        "artwork/icon.svg": "8d51a247b0b1cb639f723b23043ee900225adcc50132876dbb4f0247e646644f",
+        "artwork/prompt.txt": "0a3a9690e8ccfc2b7e4fce49fe1cf17e7379a2dfcac0fda9b40c9763a624b1f7",
         "bin/WeTypeAweSunBridge.exe": "7da4abf8343c737c90a3aa62bf895b458dbda4a55e5eea22d508c4115f5ed1da",
-        "plugin.json": "dbd2c5a29892e7fcdbcbf62f46a658c46d5e8fa8e04a8ae6299f76948a8673b7"
+        "plugin.json": "2862c33843129583e78194ebc5d639d8b8b8e11c78679f4f6b379395227cb9e5"
       }
     }
   ]
