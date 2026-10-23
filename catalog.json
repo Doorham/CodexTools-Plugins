@@ -26,18 +26,19 @@
       "category": "网络",
       "icon": "↗",
       "accent": "#f59e0b",
-      "moduleVersion": "1.2.14",
+      "moduleVersion": "1.2.16",
       "developers": [
         "Doorham",
         "Althy",
         "Oreo",
         "DRHW",
         "Codex",
-        "Kimi"
+        "Kimi",
+        "DeepSeek Harness"
       ],
-      "package": "packages/cn-proxy-bypass/1.2.14.zip",
-      "sha256": "1a2164022e02dc1f1b02b85abc0bd643c519a04f7db01f343fba34f58f49a5be",
-      "bytes": 6949
+      "package": "packages/cn-proxy-bypass/1.2.16.zip",
+      "sha256": "5ad71647a51a13985845cc68e1b4e842cc3bb751184965a29b023ce96fe2325e",
+      "bytes": 8381
     },
     {
       "id": "codex-answer-chime",
@@ -60,19 +61,19 @@
     {
       "id": "codex-environment-helper",
       "name": "Codex 环境补全",
-      "description": "检测并自助补全 PowerShell、Terminal、Git、FFmpeg、LibreOffice、.NET SDK、x64 桌面运行时、WebView2 与 Python 依赖；UTF-8 修改前备份并支持回滚。",
+      "description": "检测并补全运行依赖；UTF-8 仅用于具体 Python/文本读取流程，不再修改 Windows 全局编码。保留按本机备份恢复原编码的入口。",
       "category": "开发环境",
       "icon": "+",
       "accent": "#3b82f6",
-      "moduleVersion": "1.5.1",
+      "moduleVersion": "1.5.3",
       "developers": [
         "Althy",
         "Doorham",
         "DRHW"
       ],
-      "package": "packages/codex-environment-helper/1.5.1.zip",
-      "sha256": "c9ef54cab5067c38b1c4a18f90cdb54b06f00fd69658c11001b2f06328adae50",
-      "bytes": 462506
+      "package": "packages/codex-environment-helper/1.5.3.zip",
+      "sha256": "d727c6cbef6f761d5d0798f115ef61a2e6a94c2c0a7344e897173b9ddd8d4597",
+      "bytes": 427262
     },
     {
       "id": "codex-system-proxy",
@@ -91,21 +92,37 @@
       "bytes": 4814
     },
     {
+      "id": "everything-exclusions",
+      "name": "Everything 路径排除",
+      "description": "拖入任意文件选择排除所在目录或上一级目录，封面卡片管理、搜索、父子目录合并及署名配置共享。",
+      "category": "搜索工具",
+      "icon": "⊘",
+      "accent": "#efb56c",
+      "moduleVersion": "1.5.1",
+      "developers": [
+        "Doorham"
+      ],
+      "minimumToolboxVersion": "0.32.12",
+      "package": "packages/everything-exclusions/1.5.1.zip",
+      "sha256": "66e9a530ef59c2eaa348a88215e8f1f797b7bd2e0fe13e5bdf51c89e144cd6a3",
+      "bytes": 326443
+    },
+    {
       "id": "software-environment-checker",
       "name": "软件安装检查",
-      "description": "只读检查开发工具、Python 基础环境和编辑器集成。所有 .NET 与 WebView2 运行依赖统一由 Codex 环境补全管理。",
+      "description": "检查开发工具、Python、PowerShell、.NET、FFmpeg、LibreOffice 与编辑器集成；提供手动下载入口，安装包由用户自行运行。WebView2 与小型依赖由 Codex 环境补全管理。",
       "category": "开发环境",
       "icon": "✓",
       "accent": "#22c55e",
-      "moduleVersion": "1.5.1",
+      "moduleVersion": "1.5.3",
       "developers": [
         "Althy",
         "Doorham",
         "DRHW"
       ],
-      "package": "packages/software-environment-checker/1.5.1.zip",
-      "sha256": "396cedd657eade6cceb05c6d5d33c0113c3b28c55d8af1b9cac6c9cb42a9c4e4",
-      "bytes": 462477
+      "package": "packages/software-environment-checker/1.5.3.zip",
+      "sha256": "a09da04b4a7dadec4207908841da1c04243293debd4e9dd84d77de8ff2d6e3be",
+      "bytes": 427288
     },
     {
       "id": "updream-bridge",
@@ -151,14 +168,14 @@
       "category": "剪贴板",
       "icon": "assets/plugin-icons/wetype-awesun-bridge.svg",
       "accent": "#1ac785",
-      "moduleVersion": "1.0.5",
+      "moduleVersion": "1.0.6",
       "developers": [
         "Althy",
         "DRHW"
       ],
-      "package": "packages/wetype-awesun-bridge/1.0.5.zip",
-      "sha256": "98d2f3b62422928d1a946c03850bdc85d06c312d152887be60e1814853491a1e",
-      "bytes": 13190
+      "package": "packages/wetype-awesun-bridge/1.0.6.zip",
+      "sha256": "d67856f8b797273506bccfbaa2ed60980df637f40d80c3daa4bda414a36c2b7d",
+      "bytes": 14051
     }
   ]
 }

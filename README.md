@@ -1,20 +1,21 @@
 # CodexTools Plugins
 
-Codex 工具箱安装版的公共插件库。维护署名：Codex。
+Codex 工具箱安装版的公共插件库。维护署名：Codex、Althy。
 
 需要工具箱 **0.32.12 或更新版本**。打开“插件中心”可浏览、下载安装；“本机 → 更新插件”检查已安装插件。无需安装 Git 或登录 GitHub，网络需能访问 raw.githubusercontent.com。
 
 | 插件 | 版本 | 下载 |
 | --- | --- | --- |
 | Arctis Nova 5 电量监控 | 1.0.3 | [ZIP](packages/arctis-nova-5-battery/1.0.3.zip) |
-| 国内网站直连 | 1.2.14 | [ZIP](packages/cn-proxy-bypass/1.2.14.zip) |
+| 国内网站直连 | 1.2.16 | [ZIP](packages/cn-proxy-bypass/1.2.16.zip) |
 | Codex 完成提示音 | 1.1.1 | [ZIP](packages/codex-answer-chime/1.1.1.zip) |
-| Codex 环境补全 | 1.5.1 | [ZIP](packages/codex-environment-helper/1.5.1.zip) |
+| Codex 环境补全 | 1.5.3 | [ZIP](packages/codex-environment-helper/1.5.3.zip) |
 | Codex 对话 timeout 修复 | 1.1.1 | [ZIP](packages/codex-system-proxy/1.1.1.zip) |
-| 软件安装检查 | 1.5.1 | [ZIP](packages/software-environment-checker/1.5.1.zip) |
+| Everything 路径排除 | 1.5.1 | [ZIP](packages/everything-exclusions/1.5.1.zip) |
+| 软件安装检查 | 1.5.3 | [ZIP](packages/software-environment-checker/1.5.3.zip) |
 | UpdreamBridge 图片生成 | 1.2.1 | [ZIP](packages/updream-bridge/1.2.1.zip) |
 | Updream 剪贴板清理 | 1.0.5 | [ZIP](packages/updream-clipboard-cleaner/1.0.5.zip) |
-| 微信语音输入远程状态监听板 | 1.0.5 | [ZIP](packages/wetype-awesun-bridge/1.0.5.zip) |
+| 微信语音输入远程状态监听板 | 1.0.6 | [ZIP](packages/wetype-awesun-bridge/1.0.6.zip) |
 
 同一插件在公司源与 GitHub 同时存在时只显示一项，采用较新版本，同版本优先公司源。已装同版或更高版本不会重复下载或降级。更新沿用原有启停、声音、自启与本机设置保留流程。
 
@@ -25,3 +26,5 @@ Codex 工具箱安装版的公共插件库。维护署名：Codex。
 维护时从独立的公共分发目录按白名单重新生成包，先测试，再原子提交目录及对应包。已有版本包保持不可变；内容变化应先提升插件版本。package-files.json 记录每个原始公开文件的 SHA256；这些是已有发布包的原件，不声称本轮重新构建了所有插件。
 
 自有项目沿用既有 Apache-2.0 许可；环境工具内的 Microsoft Fluent Emoji 许可见各包的 bin/THIRD-PARTY-NOTICES.md。已有公开源码可参阅 [CodexPlugins](https://github.com/Doorham/CodexPlugins)，其旧网络版版本线与本库独立，不保证旧版本源码与此处二进制逐一对应。
+
+本次同步与验证范围见 [2026-10-23 发布记录](RELEASES/2026-10-23.md)。

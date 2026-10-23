@@ -11,10 +11,11 @@
     },
     {
       "id": "cn-proxy-bypass",
-      "version": "1.2.14",
+      "version": "1.2.16",
       "files": {
-        "CHANGELOG.md": "6efb84f4c2f457ea74328c3577660e55e6933c1569ef83c6e95d2dd452e9f95e",
-        "plugin.json": "2c4491c179ae988fd8a719ba23cfe13ff49942ef6cc716e46cffb53e5d49caf6"
+        "CHANGELOG.md": "8eb945073dbef76637fc982404da15824daea66bf2f4b54a33f9fab15a4634b1",
+        "LICENSE": "1eb85fc97224598dad1852b5d6483bbcf0aa8608790dcc657a5a2a761ae9c8c6",
+        "plugin.json": "d38c668bce669b50e6ea3f566cca59489bcf6d78b7bf3368ef054d3625d70c67"
       }
     },
     {
@@ -28,13 +29,17 @@
     },
     {
       "id": "codex-environment-helper",
-      "version": "1.5.1",
+      "version": "1.5.3",
       "files": {
-        "bin/EnvironmentDetector.exe": "8829dc66d7f75cbdf6996f7f29640bf7059ad0ecd8db1b80bf7eb63af9c2556a",
+        "DEVLOG.md": "ffe9582b217eb6a4207e6285d3287c0bcd5584237998c23401cd7ea2c8a7cb21",
+        "DOWNLOAD-SOURCES.json": "d1853f7e4a95cfd579a79e7eec02737d68835676d63a509a0df633e8b7cd5190",
+        "ENCODING.md": "18a9eb019f99852155008839385d9d0b4f93d075e3f0b95d13548e5538259aa4",
+        "LICENSE": "1eb85fc97224598dad1852b5d6483bbcf0aa8608790dcc657a5a2a761ae9c8c6",
+        "bin/EnvironmentDetector.exe": "376918c04894c75c58a77d9fd3ee4b997486f7b1f59acc464a6b98697fe9a120",
         "bin/INSTALLER-LIBRARY.lock.json": "0086047c509d11f86bac6244826ae0e1147d0dc8b630a3106d6a4e92deb0e4c6",
         "bin/THIRD-PARTY-NOTICES.md": "b170a900e88fc2b9c17abf52ac57ddcc10e916bcff6dd09c7f65d0eb9da6cff1",
-        "bin/install-from-library.ps1": "d2482d8ed2576a438f36d5d137014825664e54af108d9beb23eddef0e0a86a49",
-        "plugin.json": "92701f23aa6e3374fb22482cd252b51f65bd33b6f3d695bfaf84c4e2ff5f1e99"
+        "bin/install-from-library.ps1": "0554f655e27988fd730240d3e24e0f01d80529c9340ecb7fc4d8bb405e56f492",
+        "plugin.json": "1d19517110f2fb1bb2f4018cb9250e56450d093dd1b9d37d947bd3d49234cac8"
       }
     },
     {
@@ -45,14 +50,39 @@
       }
     },
     {
-      "id": "software-environment-checker",
+      "id": "everything-exclusions",
       "version": "1.5.1",
       "files": {
-        "bin/EnvironmentDetector.exe": "8829dc66d7f75cbdf6996f7f29640bf7059ad0ecd8db1b80bf7eb63af9c2556a",
+        "LICENSE": "c71d239df91726fc519c6eb72d318ec65820627232b2f796219e87dcf35d0ab4",
+        "CHANGELOG.json": "fb891dabc7e1e5bb410c6a328ba75d1f1d328cc051e6c208cd5c293db85608cf",
+        "DEVLOG.md": "f856b3a5e7045826e3482b7f72c582759d25df36f3ef0344bde41e2bd681d3a7",
+        "README.md": "81ad287c6b840a18b38668697c091d1b4bc8ba7f042a535355b22f5ca3bc687c",
+        "THIRD-PARTY-NOTICES.md": "6fa2f2d3ca2b263a14fa7d63f594b235979371c3f45e83b688ad57c68116423f",
+        "WEBVIEW2-LICENSE.txt": "0af8f1b807512aae39c2ac1aa4d0cae65cabecb6fd554b8439a5162a0d6eca55",
+        "WEBVIEW2-NOTICE.txt": "106423785c5b7eba0a8e61d1837f2132e9c828e20ad530f565d981c1df60dd90",
+        "bin/EverythingExclusions.exe": "9f20158a0bbb48280cd18cbc5adbadd392072422ec7c99eeb2a8365b957fd113",
+        "bin/Microsoft.Web.WebView2.Core.dll": "8219a3135436c147f8eb02fb831e99596103eebc18b6d7b794ca93f4c67018a2",
+        "bin/Microsoft.Web.WebView2.WinForms.dll": "c48f8d729dc531288d2c53a6241effe7922ed1b947850b2442008a945c098c48",
+        "bin/WebView2Loader.dll": "eb5335edeaa6f2122c044e82aab2351dc8c9b4e0fe5e578c71922fb61be285e7",
+        "bin/ui/app.js": "7e8742fe7b35455b71cc9437ebd0642372e06f73585fe2e3d8f68489ea7add2f",
+        "bin/ui/index.html": "7a884660e63223d304128fb151f50d1db37f64d3e04a62e225da852a1d504948",
+        "bin/ui/style.css": "77bfa2fccfa27ca1076892a6f0006f395aa51359f841da6420ca54035b573980",
+        "plugin.json": "f8e8fd355dcc9f874c9aac7d90b3542cb8b2ad4e1fbac0876fbc18267de887b5"
+      }
+    },
+    {
+      "id": "software-environment-checker",
+      "version": "1.5.3",
+      "files": {
+        "DEVLOG.md": "3f79dd9f837cc782fe91f2863937f3a35d234c7a0b438cff8cf13f34224c63e4",
+        "DOWNLOAD-SOURCES.json": "d1853f7e4a95cfd579a79e7eec02737d68835676d63a509a0df633e8b7cd5190",
+        "ENCODING.md": "18a9eb019f99852155008839385d9d0b4f93d075e3f0b95d13548e5538259aa4",
+        "LICENSE": "1eb85fc97224598dad1852b5d6483bbcf0aa8608790dcc657a5a2a761ae9c8c6",
+        "bin/EnvironmentDetector.exe": "376918c04894c75c58a77d9fd3ee4b997486f7b1f59acc464a6b98697fe9a120",
         "bin/INSTALLER-LIBRARY.lock.json": "0086047c509d11f86bac6244826ae0e1147d0dc8b630a3106d6a4e92deb0e4c6",
         "bin/THIRD-PARTY-NOTICES.md": "b170a900e88fc2b9c17abf52ac57ddcc10e916bcff6dd09c7f65d0eb9da6cff1",
-        "bin/install-from-library.ps1": "d2482d8ed2576a438f36d5d137014825664e54af108d9beb23eddef0e0a86a49",
-        "plugin.json": "9300d7039a73079acca73707a323a56b141ec45d32738e10b0dab18503994015"
+        "bin/install-from-library.ps1": "0554f655e27988fd730240d3e24e0f01d80529c9340ecb7fc4d8bb405e56f492",
+        "plugin.json": "04a2214bf186632d80bb0c71a9f4f9b1a006905e777d254838648600b160f282"
       }
     },
     {
@@ -80,10 +110,12 @@
     },
     {
       "id": "wetype-awesun-bridge",
-      "version": "1.0.5",
+      "version": "1.0.6",
       "files": {
-        "bin/WeTypeAweSunBridge.exe": "181c4188251db978a328c17fd67f038f8e6f54e7a72c99ed0272b67e594bd69e",
-        "plugin.json": "eaff02fdfb7db9fa8cc123bc729d0b5fdd9d0e810153b73900ef79e77b96fddb"
+        "CHANGELOG.md": "b410a897b5611e92d88ff3646badf3566332865de32c6ed84a909c81ecf0e0ee",
+        "LICENSE": "1eb85fc97224598dad1852b5d6483bbcf0aa8608790dcc657a5a2a761ae9c8c6",
+        "bin/WeTypeAweSunBridge.exe": "7da4abf8343c737c90a3aa62bf895b458dbda4a55e5eea22d508c4115f5ed1da",
+        "plugin.json": "dbd2c5a29892e7fcdbcbf62f46a658c46d5e8fa8e04a8ae6299f76948a8673b7"
       }
     }
   ]
