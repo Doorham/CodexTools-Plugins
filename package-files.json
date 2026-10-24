@@ -139,16 +139,16 @@
     },
     {
       "id": "wetype-awesun-bridge",
-      "version": "1.0.13",
+      "version": "1.0.14",
       "files": {
-        "CHANGELOG.md": "d86e6961dec655602bc1ae6a5efdc4f6527a3a213f0ea8a0659dd1428e7d5ede",
-        "DEVLOG.md": "efce3188db91d1b4babd5c58e49622b1ab97c3b5bab1e41b97bc7e61e9d431c8",
+        "CHANGELOG.md": "c9ec89f4607e5d544b4e915d06fa48ac2d197e988a34f9e2bb333d6ae7822eee",
+        "DEVLOG.md": "ebdcca4914dd9d17ad19b7b53afa39e28c2d4ad15e9e6a3ac7b7e7692370eb64",
         "LICENSE": "1eb85fc97224598dad1852b5d6483bbcf0aa8608790dcc657a5a2a761ae9c8c6",
-        "SOURCE-HANDOFF.json": "1e7c512294d43317cd37bb148055ca4445419a1ad6b192103d21015cc92b3831",
+        "SOURCE-HANDOFF.json": "3c8164477944aa320ff1ae892698811561971421a2ebc08aa13bb2c89832251e",
         "artwork/ARTWORK.json": "cf2bdcceb1451ab192bff55b581c17ce414ec11b57d22e4f1a4b750555be704a",
         "artwork/icon.svg": "9e2bcb86ccea883c7ed6d8315d9e442f0b9667aee6449e5c206963c9034ec838",
-        "bin/WeTypeAweSunBridge.exe": "d4bdb9aa20f26441f507ca22a30f8bd0611df65352a890eb7c8faa8b9b084716",
-        "plugin.json": "53088a1c15080e88092e5f4f88d1854d6dd95915d2af10ff377884af3a193db6"
+        "bin/WeTypeAweSunBridge.exe": "9ad72c254fd0e300c4680c573b7aa3f6217585e73b8446d229992a953614f5ab",
+        "plugin.json": "87d755b4d68176eda1ecc040440a6d94d53e3663823ebc904961b308120925bf"
       }
     }
   ]

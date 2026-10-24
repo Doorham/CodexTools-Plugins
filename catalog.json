@@ -187,15 +187,15 @@
       "icon": "assets/plugin-icons/wetype-awesun-bridge.svg",
       "iconImage": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNTYiIGhlaWdodD0iMjU2IiB2aWV3Qm94PSIwIDAgMTAwIDEwMCIgcm9sZT0iaW1nIiBhcmlhLWxhYmVsbGVkYnk9InRpdGxlIj4NCiAgPHRpdGxlIGlkPSJ0aXRsZSI+5b6u5L+h6K+t6Z+z6L6T5YWl6L+c56iL54q25oCB55uR5ZCs54mIPC90aXRsZT4NCiAgPGRlZnM+DQogICAgPGxpbmVhckdyYWRpZW50IGlkPSJiYWNrZ3JvdW5kIiB4MT0iMCIgeTE9IjAiIHgyPSIxIiB5Mj0iMSI+DQogICAgICA8c3RvcCBvZmZzZXQ9IjAiIHN0b3AtY29sb3I9IiMyN0M5N0EiLz4NCiAgICAgIDxzdG9wIG9mZnNldD0iMSIgc3RvcC1jb2xvcj0iIzBEQTU2RSIvPg0KICAgIDwvbGluZWFyR3JhZGllbnQ+DQogIDwvZGVmcz4NCiAgPHJlY3Qgd2lkdGg9IjEwMCIgaGVpZ2h0PSIxMDAiIHJ4PSIyMyIgZmlsbD0idXJsKCNiYWNrZ3JvdW5kKSIvPg0KICA8cGF0aCBkPSJNNTMuNTE1NjI1IDc4LjUxNTYyNUw2Ni43OTY4NzUgMjIuNjU2MjUiIGZpbGw9Im5vbmUiIHN0cm9rZT0id2hpdGUiIHN0cm9rZS13aWR0aD0iOC41OTM3NSIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIi8+DQogIDxwYXRoIGQ9Ik03OC41MTU2MjUgNDMuNzVINDcuMjY1NjI1QzMxLjI1IDQzLjc1IDIxLjg3NSA1My41MTU2MjUgMjEuODc1IDY2LjAxNTYyNUMyMS44NzUgNzMuNDM3NSAyOC45MDYyNSA3OC41MTU2MjUgMzcuODkwNjI1IDc4LjUxNTYyNSIgZmlsbD0ibm9uZSIgc3Ryb2tlPSJ3aGl0ZSIgc3Ryb2tlLXdpZHRoPSI4LjU5Mzc1IiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiLz4NCjwvc3ZnPg0K",
       "accent": "#1ac785",
-      "moduleVersion": "1.0.13",
+      "moduleVersion": "1.0.14",
       "developers": [
         "Althy",
         "DRHW"
       ],
       "minimumToolboxVersion": "0.32.20",
-      "package": "packages/wetype-awesun-bridge/1.0.13.zip",
-      "bytes": 32642,
-      "sha256": "20adb95a6f024989c187bae444a1ba4af8fbe056a0c6d8b98e2c9031f4603ea5"
+      "package": "packages/wetype-awesun-bridge/1.0.14.zip",
+      "bytes": 33947,
+      "sha256": "5dadd1af352d60bc1e64cd506adde5559a7a89abfd2a186bb263e4745aba6733"
     }
   ]
 }
