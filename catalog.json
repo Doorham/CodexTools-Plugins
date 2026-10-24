@@ -185,17 +185,17 @@
       "description": "向日葵中的微信语音文字立即复制到剪贴板；切走隐藏承接板，切回重新承接。开启同时运行并开机自启，关闭停止并取消自启。",
       "category": "剪贴板",
       "icon": "assets/plugin-icons/wetype-awesun-bridge.svg",
-      "iconImage": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNTYiIGhlaWdodD0iMjU2IiB2aWV3Qm94PSIwIDAgMTAwIDEwMCIgcm9sZT0iaW1nIiBhcmlhLWxhYmVsbGVkYnk9InRpdGxlIj4KICA8dGl0bGUgaWQ9InRpdGxlIj7lvq7kv6Hor63pn7PovpPlhaXov5znqIvnirbmgIHnm5HlkKzmnb88L3RpdGxlPgogIDxkZWZzPgogICAgPGxpbmVhckdyYWRpZW50IGlkPSJiYWNrZ3JvdW5kIiB4MT0iMCIgeTE9IjAiIHgyPSIxIiB5Mj0iMSI+CiAgICAgIDxzdG9wIG9mZnNldD0iMCIgc3RvcC1jb2xvcj0iIzM3QThDOSIvPgogICAgICA8c3RvcCBvZmZzZXQ9IjEiIHN0b3AtY29sb3I9IiMyMjZDQzEiLz4KICAgIDwvbGluZWFyR3JhZGllbnQ+CiAgPC9kZWZzPgogIDxyZWN0IHdpZHRoPSIxMDAiIGhlaWdodD0iMTAwIiByeD0iMjMiIGZpbGw9InVybCgjYmFja2dyb3VuZCkiLz4KICA8cmVjdCB4PSIzOSIgeT0iMTgiIHdpZHRoPSIyMiIgaGVpZ2h0PSI0MCIgcng9IjExIiBmaWxsPSJ3aGl0ZSIvPgogIDxwYXRoIGQ9Ik0yOCA0N3Y1YTIyIDIyIDAgMCAwIDQ0IDB2LTVNNTAgNzR2MTBNMzkgODRoMjIiIGZpbGw9Im5vbmUiIHN0cm9rZT0id2hpdGUiIHN0cm9rZS13aWR0aD0iNi41IiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiLz4KPC9zdmc+Cg==",
+      "iconImage": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNTYiIGhlaWdodD0iMjU2IiB2aWV3Qm94PSIwIDAgMTAwIDEwMCIgcm9sZT0iaW1nIiBhcmlhLWxhYmVsbGVkYnk9InRpdGxlIj4NCiAgPHRpdGxlIGlkPSJ0aXRsZSI+5b6u5L+h6K+t6Z+z6L6T5YWl6L+c56iL54q25oCB55uR5ZCs54mIPC90aXRsZT4NCiAgPGRlZnM+DQogICAgPGxpbmVhckdyYWRpZW50IGlkPSJiYWNrZ3JvdW5kIiB4MT0iMCIgeTE9IjAiIHgyPSIxIiB5Mj0iMSI+DQogICAgICA8c3RvcCBvZmZzZXQ9IjAiIHN0b3AtY29sb3I9IiMyN0M5N0EiLz4NCiAgICAgIDxzdG9wIG9mZnNldD0iMSIgc3RvcC1jb2xvcj0iIzBEQTU2RSIvPg0KICAgIDwvbGluZWFyR3JhZGllbnQ+DQogIDwvZGVmcz4NCiAgPHJlY3Qgd2lkdGg9IjEwMCIgaGVpZ2h0PSIxMDAiIHJ4PSIyMyIgZmlsbD0idXJsKCNiYWNrZ3JvdW5kKSIvPg0KICA8cGF0aCBkPSJNNTMuNTE1NjI1IDc4LjUxNTYyNUw2Ni43OTY4NzUgMjIuNjU2MjUiIGZpbGw9Im5vbmUiIHN0cm9rZT0id2hpdGUiIHN0cm9rZS13aWR0aD0iOC41OTM3NSIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIi8+DQogIDxwYXRoIGQ9Ik03OC41MTU2MjUgNDMuNzVINDcuMjY1NjI1QzMxLjI1IDQzLjc1IDIxLjg3NSA1My41MTU2MjUgMjEuODc1IDY2LjAxNTYyNUMyMS44NzUgNzMuNDM3NSAyOC45MDYyNSA3OC41MTU2MjUgMzcuODkwNjI1IDc4LjUxNTYyNSIgZmlsbD0ibm9uZSIgc3Ryb2tlPSJ3aGl0ZSIgc3Ryb2tlLXdpZHRoPSI4LjU5Mzc1IiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiLz4NCjwvc3ZnPg0K",
       "accent": "#1ac785",
-      "moduleVersion": "1.0.8",
+      "moduleVersion": "1.0.9",
       "developers": [
         "Althy",
         "DRHW"
       ],
       "minimumToolboxVersion": "0.32.20",
-      "package": "packages/wetype-awesun-bridge/1.0.8.zip",
-      "bytes": 17063,
-      "sha256": "8ebeb3171e28eb01a0b5e6c69d36c72040cbb9fe945f095e95f2946d1fb063a5"
+      "package": "packages/wetype-awesun-bridge/1.0.9.zip",
+      "bytes": 17461,
+      "sha256": "88aa5fa7351e9b671efa2da205f7daf6fcdfce96816e5cda9bdb99f591933399"
     }
   ]
 }
