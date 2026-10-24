@@ -15,7 +15,7 @@ Codex 工具箱安装版的公共插件库。维护署名：Codex、Althy。
 | 软件安装检查 | 1.5.5 | [ZIP](packages/software-environment-checker/1.5.5.zip) |
 | UpdreamBridge 图片生成 | 1.2.3 | [ZIP](packages/updream-bridge/1.2.3.zip) |
 | Updream 剪贴板清理 | 1.0.7 | [ZIP](packages/updream-clipboard-cleaner/1.0.7.zip) |
-| 微信语音输入远程状态监听板 | 1.0.9 | [ZIP](packages/wetype-awesun-bridge/1.0.9.zip) |
+| 微信语音输入远程状态监听板 | 1.0.10 | [ZIP](packages/wetype-awesun-bridge/1.0.10.zip) |
 
 同一插件在公司源与 GitHub 同时存在时只显示一项，采用较新版本，同版本优先公司源。已装同版或更高版本不会重复下载或降级。更新沿用原有启停、声音、自启与本机设置保留流程。
 
