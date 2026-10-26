@@ -11,7 +11,7 @@ Codex 工具箱安装版的公共插件库。维护署名：Codex、Althy。
 | Codex 完成提示音 | 1.1.3 | [ZIP](packages/codex-answer-chime/1.1.3.zip) |
 | Codex 环境补全 | 1.5.5 | [ZIP](packages/codex-environment-helper/1.5.5.zip) |
 | Codex 对话 timeout 修复 | 1.1.3 | [ZIP](packages/codex-system-proxy/1.1.3.zip) |
-| Everything 路径排除 | 1.7.0 | [ZIP](packages/everything-exclusions/1.7.0.zip) |
+| Everything 路径排除 | 1.7.1 | [ZIP](packages/everything-exclusions/1.7.1.zip) |
 | 软件安装检查 | 1.5.5 | [ZIP](packages/software-environment-checker/1.5.5.zip) |
 | UpdreamBridge 图片生成 | 1.2.3 | [ZIP](packages/updream-bridge/1.2.3.zip) |
 | Updream 剪贴板清理 | 1.0.7 | [ZIP](packages/updream-clipboard-cleaner/1.0.7.zip) |
@@ -36,3 +36,7 @@ Codex 工具箱安装版的公共插件库。维护署名：Codex、Althy。
 ## Everything 1.7.0 · 2026-10-26 · Doorham
 
 路径卡片新增“吞噬上级”，确认后提升排除范围并合并被覆盖卡片；包含“修复卡死”。此插件要求工具箱 0.32.24 或更新版本，推荐先安装公司 Software 下载区中的 0.32.25 Setup，再更新插件。[源码](sources/everything-exclusions/1.7.0.zip) · [发布记录](RELEASES/everything-exclusions/1.7.0.json)。
+
+## Everything 1.7.1 · 2026-10-26 · Doorham
+
+修复 Everything 不响应退出时只能报错的问题：经用户确认才结束原进程并恢复操作，取消保留规则和卡片；清理本次退出命令，结束前备份已保存配置。客户端 0.32.25 不变。143 项独立实例及界面检查通过。[发布记录](RELEASES/everything-exclusions/1.7.1.json)。
