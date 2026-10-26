@@ -11,7 +11,7 @@ Codex 工具箱安装版的公共插件库。维护署名：Codex、Althy。
 | Codex 完成提示音 | 1.1.3 | [ZIP](packages/codex-answer-chime/1.1.3.zip) |
 | Codex 环境补全 | 1.5.5 | [ZIP](packages/codex-environment-helper/1.5.5.zip) |
 | Codex 对话 timeout 修复 | 1.1.3 | [ZIP](packages/codex-system-proxy/1.1.3.zip) |
-| Everything 路径排除 | 1.5.3 | [ZIP](packages/everything-exclusions/1.5.3.zip) |
+| Everything 路径排除 | 1.7.0 | [ZIP](packages/everything-exclusions/1.7.0.zip) |
 | 软件安装检查 | 1.5.5 | [ZIP](packages/software-environment-checker/1.5.5.zip) |
 | UpdreamBridge 图片生成 | 1.2.3 | [ZIP](packages/updream-bridge/1.2.3.zip) |
 | Updream 剪贴板清理 | 1.0.7 | [ZIP](packages/updream-clipboard-cleaner/1.0.7.zip) |
@@ -32,3 +32,7 @@ Codex 工具箱安装版的公共插件库。维护署名：Codex、Althy。
 本轮图标更新见 [2026-10-24 图标交付记录](RELEASES/2026-10-24-icons.md)。
 
 本轮图标更新见 [2026-10-24 图标交付记录](RELEASES/2026-10-24-vector-icons.md)。
+
+## Everything 1.7.0 · 2026-10-26 · Doorham
+
+路径卡片新增“吞噬上级”，确认后提升排除范围并合并被覆盖卡片；包含“修复卡死”。此插件要求工具箱 0.32.24 或更新版本，推荐先安装公司 Software 下载区中的 0.32.25 Setup，再更新插件。[源码](sources/everything-exclusions/1.7.0.zip) · [发布记录](RELEASES/everything-exclusions/1.7.0.json)。

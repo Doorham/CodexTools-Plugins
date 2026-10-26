@@ -68,25 +68,25 @@
     },
     {
       "id": "everything-exclusions",
-      "version": "1.5.3",
+      "version": "1.7.0",
       "files": {
-        "CHANGELOG.json": "fb891dabc7e1e5bb410c6a328ba75d1f1d328cc051e6c208cd5c293db85608cf",
-        "DEVLOG.md": "c56d3f71b1f1df2e27927fa5d56e9841aea193dae049b713efde560915d1c7f8",
-        "LICENSE": "c71d239df91726fc519c6eb72d318ec65820627232b2f796219e87dcf35d0ab4",
-        "README.md": "81ad287c6b840a18b38668697c091d1b4bc8ba7f042a535355b22f5ca3bc687c",
-        "THIRD-PARTY-NOTICES.md": "6fa2f2d3ca2b263a14fa7d63f594b235979371c3f45e83b688ad57c68116423f",
-        "WEBVIEW2-LICENSE.txt": "0af8f1b807512aae39c2ac1aa4d0cae65cabecb6fd554b8439a5162a0d6eca55",
-        "WEBVIEW2-NOTICE.txt": "106423785c5b7eba0a8e61d1837f2132e9c828e20ad530f565d981c1df60dd90",
         "artwork/ARTWORK.json": "3353af5904e8e39313fd5eb61b63f72df14c24131f31e8cf9ac8bcbf2e537981",
         "artwork/icon.svg": "c65818216e5792bb5b831476693d9e81047a748b6b64763bd0f2aab4b4429990",
-        "bin/EverythingExclusions.exe": "9f20158a0bbb48280cd18cbc5adbadd392072422ec7c99eeb2a8365b957fd113",
+        "bin/EverythingExclusions.exe": "ea6cdfcb72e926b9e16bb88f766d6ddfb553c9d7ba111d634c3907874931149f",
         "bin/Microsoft.Web.WebView2.Core.dll": "8219a3135436c147f8eb02fb831e99596103eebc18b6d7b794ca93f4c67018a2",
         "bin/Microsoft.Web.WebView2.WinForms.dll": "c48f8d729dc531288d2c53a6241effe7922ed1b947850b2442008a945c098c48",
+        "bin/ui/app.js": "e0048a94810dcddbd4158683c3844c26da3a9c33ff3aeb8fb7848ca5eb8096a7",
+        "bin/ui/index.html": "d6cc88782951c0a9a20377525a6980e1f6be17b9a838a1e408c66ded53e512e8",
+        "bin/ui/style.css": "52f81ffa08b0fea705ff30067a851fc65d4083a617790e7f6b39e7807d427389",
         "bin/WebView2Loader.dll": "eb5335edeaa6f2122c044e82aab2351dc8c9b4e0fe5e578c71922fb61be285e7",
-        "bin/ui/app.js": "7e8742fe7b35455b71cc9437ebd0642372e06f73585fe2e3d8f68489ea7add2f",
-        "bin/ui/index.html": "7a884660e63223d304128fb151f50d1db37f64d3e04a62e225da852a1d504948",
-        "bin/ui/style.css": "77bfa2fccfa27ca1076892a6f0006f395aa51359f841da6420ca54035b573980",
-        "plugin.json": "24b128a59a5d18f0d4b08a3aacf6b4c8427b67acda59f8c29da79799446edbda"
+        "CHANGELOG.json": "427cb8f387dd479a219bfa40caad295f21473339c2279c32efadccd66efddd3b",
+        "DEVLOG.md": "db159de62e5662fcfaa3f61411de1089815f2c6513fced92e98d5561c04a1391",
+        "LICENSE": "c71d239df91726fc519c6eb72d318ec65820627232b2f796219e87dcf35d0ab4",
+        "plugin.json": "98ffb2f694e27764ec75cf0dfaafc263f64004d4680fcea7bd642b4ba6d274b8",
+        "README.md": "2a0b311ef5e7cea35bf91733045a0896b7c71f9cce1f99f923ad75aedf67b0e3",
+        "THIRD-PARTY-NOTICES.md": "6fa2f2d3ca2b263a14fa7d63f594b235979371c3f45e83b688ad57c68116423f",
+        "WEBVIEW2-LICENSE.txt": "0af8f1b807512aae39c2ac1aa4d0cae65cabecb6fd554b8439a5162a0d6eca55",
+        "WEBVIEW2-NOTICE.txt": "106423785c5b7eba0a8e61d1837f2132e9c828e20ad530f565d981c1df60dd90"
       }
     },
     {
