@@ -1,0 +1,70 @@
+{
+  "id": "everything-exclusions",
+  "moduleVersion": "1.7.2",
+  "previousChannelVersion": "1.7.1",
+  "developer": "Doorham",
+  "developers": [
+    "Doorham",
+    "Althy"
+  ],
+  "date": "2026-10-26",
+  "minimumToolboxVersion": "0.32.24",
+  "clientVersionUnchanged": "0.32.25",
+  "package": "packages/everything-exclusions/1.7.2.zip",
+  "sha256": "ec6c7f5c9bc190edce1061c5533a13af16f3d55dc6dee46dfc9a390b4178b24d",
+  "bytes": 356104,
+  "source": "sources/everything-exclusions/1.7.2.zip",
+  "sourceSHA256": "11a0f5c4359340c44f8d1a20dcf1fe1a97f645642f04aa9fc1144940ac7f6034",
+  "sourceBranch": "fix/everything-operation-queue-1.7.2",
+  "sourceTag": "plugin-everything-exclusions-v1.7.2",
+  "filesSHA256": {
+    "artwork/ARTWORK.json": "3353af5904e8e39313fd5eb61b63f72df14c24131f31e8cf9ac8bcbf2e537981",
+    "artwork/icon.svg": "c65818216e5792bb5b831476693d9e81047a748b6b64763bd0f2aab4b4429990",
+    "bin/EverythingExclusions.exe": "7b91fde6ad75154429c1446a2120dc964c3c25c0390697fa277ebcd883ed9dd8",
+    "bin/Microsoft.Web.WebView2.Core.dll": "8219a3135436c147f8eb02fb831e99596103eebc18b6d7b794ca93f4c67018a2",
+    "bin/Microsoft.Web.WebView2.WinForms.dll": "c48f8d729dc531288d2c53a6241effe7922ed1b947850b2442008a945c098c48",
+    "bin/ui/app.js": "03696cc1ddc2a492b43f3e7a447eecef0477f6b30da27c100091abe7675ca796",
+    "bin/ui/index.html": "d6cc88782951c0a9a20377525a6980e1f6be17b9a838a1e408c66ded53e512e8",
+    "bin/ui/style.css": "52f81ffa08b0fea705ff30067a851fc65d4083a617790e7f6b39e7807d427389",
+    "bin/WebView2Loader.dll": "eb5335edeaa6f2122c044e82aab2351dc8c9b4e0fe5e578c71922fb61be285e7",
+    "CHANGELOG.json": "7adaf9608e96a43cd49b90d431e454e87c3c166fcec5c27631af04532ea19848",
+    "DEVLOG.md": "22f91c68da7f80aeb47a19048cd745aeb919001fcc6ea28ed05795fc0d47ca58",
+    "LICENSE": "c71d239df91726fc519c6eb72d318ec65820627232b2f796219e87dcf35d0ab4",
+    "plugin.json": "fbc75d7fbe1375e1ae4acd4c4289de6638f7b57227113488b2ae1e1f3a206004",
+    "README.md": "8f1dcb0ebf034ecfa122184be1ac2e765a27fb8a62b754cf64b76223779694e6",
+    "THIRD-PARTY-NOTICES.md": "6fa2f2d3ca2b263a14fa7d63f594b235979371c3f45e83b688ad57c68116423f",
+    "WEBVIEW2-LICENSE.txt": "0af8f1b807512aae39c2ac1aa4d0cae65cabecb6fd554b8439a5162a0d6eca55",
+    "WEBVIEW2-NOTICE.txt": "106423785c5b7eba0a8e61d1837f2132e9c828e20ad530f565d981c1df60dd90"
+  },
+  "checks": 163,
+  "queueChecks": 20,
+  "otherMachinesVerified": false,
+  "realUserRulesModified": false,
+  "status": "published",
+  "nasPublished": true,
+  "githubPublished": true,
+  "localInstalled": true,
+  "sourceCommit": "3755157fd0f7b16809b78590636c1bdf0dbda04c",
+  "sourceCommitted": true,
+  "installationChecks": 17,
+  "preservedOwnedStateFiles": 7,
+  "installedFilesVerified": 7,
+  "clientBinaryUnchanged": true,
+  "discoveryChecks": [
+    {
+      "developerMode": false,
+      "formalCards": 1
+    },
+    {
+      "developerMode": true,
+      "formalCards": 1
+    }
+  ],
+  "updatedAt": "2026-10-26T14:19:03+08:00",
+  "desktopOpenVerified": true,
+  "desktopCardCount": 6,
+  "desktopIdleVerified": true,
+  "desktopExitDialogVisible": false,
+  "desktopBusinessActionsPerformed": false,
+  "priorSyncFailure": "GitHub integration Git-data writes returned 403; initial Git DNS failed. Later normal Git network/authentication recovered; no integration permissions changed."
+}

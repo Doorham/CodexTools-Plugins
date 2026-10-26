@@ -11,7 +11,7 @@ Codex 工具箱安装版的公共插件库。维护署名：Codex、Althy。
 | Codex 完成提示音 | 1.1.3 | [ZIP](packages/codex-answer-chime/1.1.3.zip) |
 | Codex 环境补全 | 1.5.5 | [ZIP](packages/codex-environment-helper/1.5.5.zip) |
 | Codex 对话 timeout 修复 | 1.1.3 | [ZIP](packages/codex-system-proxy/1.1.3.zip) |
-| Everything 路径排除 | 1.7.1 | [ZIP](packages/everything-exclusions/1.7.1.zip) |
+| Everything 路径排除 | 1.7.2 | [ZIP](packages/everything-exclusions/1.7.2.zip) |
 | 软件安装检查 | 1.5.5 | [ZIP](packages/software-environment-checker/1.5.5.zip) |
 | UpdreamBridge 图片生成 | 1.2.3 | [ZIP](packages/updream-bridge/1.2.3.zip) |
 | Updream 剪贴板清理 | 1.0.7 | [ZIP](packages/updream-clipboard-cleaner/1.0.7.zip) |
