@@ -8,7 +8,7 @@ Codex 工具箱安装版的公共插件库。维护署名：Codex、Althy。
 | --- | --- | --- |
 | Arctis Nova 5 电量监控 | 1.0.5 | [ZIP](packages/arctis-nova-5-battery/1.0.5.zip) |
 | 国内网站直连 | 1.2.18 | [ZIP](packages/cn-proxy-bypass/1.2.18.zip) |
-| Codex 完成提示音 | 1.1.3 | [ZIP](packages/codex-answer-chime/1.1.3.zip) |
+| Codex 完成提示音 | 1.2.0 | [ZIP](packages/codex-answer-chime/1.2.0.zip) |
 | Codex 环境补全 | 1.5.8 | [ZIP](packages/codex-environment-helper/1.5.8.zip) |
 | Codex 对话 timeout 修复 | 1.1.3 | [ZIP](packages/codex-system-proxy/1.1.3.zip) |
 | Everything 路径排除 | 1.7.2 | [ZIP](packages/everything-exclusions/1.7.2.zip) |

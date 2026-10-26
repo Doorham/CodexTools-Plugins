@@ -48,22 +48,23 @@
     {
       "id": "codex-answer-chime",
       "name": "Codex 完成提示音",
-      "description": "开启后由同一后台助手监听 Codex 与 Kimi 的回答完成事件并播放指定提示音；加入开机自启，停用后退出并取消自启。Kimi 历史完成记录不补响，重复状态写入不重复响。",
+      "description": "开启后由同一后台助手监听 Codex、Kimi 与 DeepSeek Harness 的回答完成事件并播放指定提示音；加入开机自启，停用后退出并取消自启。历史完成记录与已完成的旧会话不补响，重复状态写入不重复响。",
       "category": "Agent 联动",
       "icon": "♫",
       "iconImage": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNTYiIGhlaWdodD0iMjU2IiB2aWV3Qm94PSIwIDAgMTAwIDEwMCIgcm9sZT0iaW1nIiBhcmlhLWxhYmVsbGVkYnk9InRpdGxlIj4KICA8dGl0bGUgaWQ9InRpdGxlIj5Db2RleCDlrozmiJDmj5DnpLrpn7M8L3RpdGxlPgogIDxkZWZzPgogICAgPGxpbmVhckdyYWRpZW50IGlkPSJiYWNrZ3JvdW5kIiB4MT0iMCIgeTE9IjAiIHgyPSIxIiB5Mj0iMSI+CiAgICAgIDxzdG9wIG9mZnNldD0iMCIgc3RvcC1jb2xvcj0iIzc1NjhFRCIvPgogICAgICA8c3RvcCBvZmZzZXQ9IjEiIHN0b3AtY29sb3I9IiNBNzVERTAiLz4KICAgIDwvbGluZWFyR3JhZGllbnQ+CiAgPC9kZWZzPgogIDxyZWN0IHdpZHRoPSIxMDAiIGhlaWdodD0iMTAwIiByeD0iMjMiIGZpbGw9InVybCgjYmFja2dyb3VuZCkiLz4KICA8cGF0aCBkPSJNNTAgMjNjLTEyIDAtMjAgOS0yMCAyMnYxMmMwIDctNCAxMC04IDE0aDU2Yy00LTQtOC03LTgtMTRWNDVjMC0xMy04LTIyLTIwLTIyWiIgZmlsbD0id2hpdGUiLz4KICA8cmVjdCB4PSI0NSIgeT0iMTciIHdpZHRoPSIxMCIgaGVpZ2h0PSIxNCIgcng9IjUiIGZpbGw9IndoaXRlIi8+CiAgPHBhdGggZD0iTTQxIDc3aDE4YTkgOSAwIDAgMS0xOCAwWiIgZmlsbD0id2hpdGUiLz4KPC9zdmc+Cg==",
       "accent": "#8b5cf6",
-      "moduleVersion": "1.1.3",
+      "moduleVersion": "1.2.0",
       "developers": [
         "Doorham",
         "Althy",
         "DRHW",
-        "Codex"
+        "Codex",
+        "DeepSeek Harness"
       ],
       "minimumToolboxVersion": "0.32.20",
-      "package": "packages/codex-answer-chime/1.1.3.zip",
-      "bytes": 18096,
-      "sha256": "641dab48ae2e77e2901332bf86e2f030aa4c172e1dc60261cb1ddb20645e2dec"
+      "package": "packages/codex-answer-chime/1.2.0.zip",
+      "bytes": 21278,
+      "sha256": "d2f4d63fdc4c407d0b0f1839b7a581c5dee34c8c33830b650beba4fbc00cf008"
     },
     {
       "id": "codex-environment-helper",
