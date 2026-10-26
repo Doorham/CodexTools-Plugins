@@ -40,20 +40,21 @@
     },
     {
       "id": "codex-environment-helper",
-      "version": "1.5.7",
+      "version": "1.5.8",
       "files": {
         "artwork/ARTWORK.json": "b0b0b3e2473d0c439c9e6bf9c0df95c3d2e20323ef67bf84f873482269f7bd1f",
         "artwork/icon.svg": "a34902074a2f6d7c3da73d996e7a2b41a98aaa478e0228ee06da343d8f9de1bd",
-        "bin/EnvironmentDetector.exe": "0812785f829b4351a08e8612e4e61c8f81c855bc907ce0fefa1e56816d93d5ce",
+        "bin/EnvironmentDetector.exe": "de3d7e6d5e76fa622318217a3f52734dc8fa39d3876ce5ee36eae51f189e0973",
         "bin/install-from-library.ps1": "0554f655e27988fd730240d3e24e0f01d80529c9340ecb7fc4d8bb405e56f492",
         "bin/INSTALLER-LIBRARY.lock.json": "0086047c509d11f86bac6244826ae0e1147d0dc8b630a3106d6a4e92deb0e4c6",
         "bin/THIRD-PARTY-NOTICES.md": "b170a900e88fc2b9c17abf52ac57ddcc10e916bcff6dd09c7f65d0eb9da6cff1",
-        "DEVLOG.md": "f3f5f3dafbcac023aafc3801c65b2a00acd1335407d91d0f0a1b5ad47098530b",
-        "DOWNLOAD-SOURCES.json": "635930d0ddc3cfb9aa7d1bf2bf48844e74439cea8ef4b8d687ceb0277b9deb4c",
-        "ENCODING.md": "1596c63198946f132c8cdb46921b8ee0596e83089861c68cbf02b4c1bf6d7bdb",
-        "plugin.json": "89367a634ff86e4e9a89fe42e4cfb94eb9e61645aea7f702b2e044bcdf41533d",
-        "README.md": "aea159688eb6da9ef1dc4b5ebde6ecaf257fd563a1388661f12596d9a1398531",
-        "SOURCE-HANDOFF.json": "ed19e646f14fb38e779840b404c4d5b1c86066e61fd6eea4959282542e32f960"
+        "DEVLOG.md": "6ed3d40f89a40b2faadb11af1435e972bdf816dea594555000275d1b33729d19",
+        "DOWNLOAD-SOURCES.json": "b9050873ac30a24b349106ef8989b1f345b0fbf453b94b96825f85c1cf76eb8e",
+        "ENCODING.md": "19f5ba165cfe211b49b89fe556c98072b773fb61b2bfbe21a6ed22253e215822",
+        "GIT-FIRST-RUN.md": "a319d55bdd3ea232bf709d073035127c08325177dab28d4613d6feb8ccdcc0b6",
+        "plugin.json": "587c93e913598ba1d2c0614c91afa2c1a7354345b982b4d6d775b12773e09aa4",
+        "README.md": "797bb3f77163bbc2b088a97e53d62c3b92732dc9e9ad6763939d1546d9877092",
+        "SOURCE-HANDOFF.json": "cc9a67afcf5b6ce8fa53329ee5eb0fbd9c5141a8e937d9cb2fddf7da2a68bdc4"
       }
     },
     {
@@ -92,20 +93,21 @@
     },
     {
       "id": "software-environment-checker",
-      "version": "1.5.7",
+      "version": "1.5.8",
       "files": {
         "artwork/ARTWORK.json": "9fa96aed05d82b7a0c1796f38092acc4789b99ce1981ef3f377635f7889e5532",
         "artwork/icon.svg": "7e24bf51128bb05b025f63b063f4b31c2914dd1136efc18f737a69dfd9094778",
-        "bin/EnvironmentDetector.exe": "0812785f829b4351a08e8612e4e61c8f81c855bc907ce0fefa1e56816d93d5ce",
+        "bin/EnvironmentDetector.exe": "de3d7e6d5e76fa622318217a3f52734dc8fa39d3876ce5ee36eae51f189e0973",
         "bin/install-from-library.ps1": "0554f655e27988fd730240d3e24e0f01d80529c9340ecb7fc4d8bb405e56f492",
         "bin/INSTALLER-LIBRARY.lock.json": "0086047c509d11f86bac6244826ae0e1147d0dc8b630a3106d6a4e92deb0e4c6",
         "bin/THIRD-PARTY-NOTICES.md": "b170a900e88fc2b9c17abf52ac57ddcc10e916bcff6dd09c7f65d0eb9da6cff1",
-        "DEVLOG.md": "28ad93707cadd15084a1863c15a2de56270f6459bc7078151e09ee481260ba99",
-        "DOWNLOAD-SOURCES.json": "635930d0ddc3cfb9aa7d1bf2bf48844e74439cea8ef4b8d687ceb0277b9deb4c",
-        "ENCODING.md": "1596c63198946f132c8cdb46921b8ee0596e83089861c68cbf02b4c1bf6d7bdb",
-        "plugin.json": "12fc139e3ff7963440a15caf559bd73a869f0ae9dabc497d0ecd6a70145f8754",
-        "README.md": "0c5d875646f336ee31dd10688522806c4431dbc6671cb321983a4d13d6f65d16",
-        "SOURCE-HANDOFF.json": "2efc18e2bb53706c90d22dc75b8cbc9dca7dbe356757b19c5eb5be282e2f6e6c"
+        "DEVLOG.md": "1335ef149d43b51922d2a1f45cba30da6707ed58a69cad785b4ef3d0b3b14efc",
+        "DOWNLOAD-SOURCES.json": "b9050873ac30a24b349106ef8989b1f345b0fbf453b94b96825f85c1cf76eb8e",
+        "ENCODING.md": "19f5ba165cfe211b49b89fe556c98072b773fb61b2bfbe21a6ed22253e215822",
+        "GIT-FIRST-RUN.md": "a319d55bdd3ea232bf709d073035127c08325177dab28d4613d6feb8ccdcc0b6",
+        "plugin.json": "728cd359a7e034d5781ceb4b411835a0d58426ae0a18bb1b5cdadc0f3dc30bd7",
+        "README.md": "fb338189534acc0533b60a2928a2e35c88cb15d748bd6f6abd2425d0f55070d2",
+        "SOURCE-HANDOFF.json": "e8e0b36319f03998e59b7b1acef1ff1826058f8231b0995dc1ca7017c9873050"
       }
     },
     {
