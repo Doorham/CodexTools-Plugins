@@ -74,16 +74,16 @@
       "icon": "+",
       "iconImage": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNTYiIGhlaWdodD0iMjU2IiB2aWV3Qm94PSIwIDAgMTAwIDEwMCIgcm9sZT0iaW1nIiBhcmlhLWxhYmVsbGVkYnk9InRpdGxlIj4KICA8dGl0bGUgaWQ9InRpdGxlIj5Db2RleCDnjq/looPooaXlhag8L3RpdGxlPgogIDxkZWZzPgogICAgPGxpbmVhckdyYWRpZW50IGlkPSJiYWNrZ3JvdW5kIiB4MT0iMCIgeTE9IjAiIHgyPSIxIiB5Mj0iMSI+CiAgICAgIDxzdG9wIG9mZnNldD0iMCIgc3RvcC1jb2xvcj0iIzQzQTVFRiIvPgogICAgICA8c3RvcCBvZmZzZXQ9IjEiIHN0b3AtY29sb3I9IiMzODY3REIiLz4KICAgIDwvbGluZWFyR3JhZGllbnQ+CiAgPC9kZWZzPgogIDxyZWN0IHdpZHRoPSIxMDAiIGhlaWdodD0iMTAwIiByeD0iMjMiIGZpbGw9InVybCgjYmFja2dyb3VuZCkiLz4KICA8cGF0aCBkPSJNMjQgMzQgNDggMjEgNzIgMzQgNDggNDhaIE0yNCAzNHYyOWwyNCAxNVY0OCBNNzIgMzR2MTgiIGZpbGw9Im5vbmUiIHN0cm9rZT0id2hpdGUiIHN0cm9rZS13aWR0aD0iNi41IiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiLz4KICA8cGF0aCBkPSJNNjUgNjVoMjBNNzUgNTV2MjAiIGZpbGw9Im5vbmUiIHN0cm9rZT0id2hpdGUiIHN0cm9rZS13aWR0aD0iNi41IiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiLz4KPC9zdmc+Cg==",
       "accent": "#3b82f6",
-      "moduleVersion": "1.5.8",
+      "moduleVersion": "1.5.9",
       "developers": [
         "Althy",
         "Doorham",
         "DRHW"
       ],
       "minimumToolboxVersion": "0.32.20",
-      "package": "packages/codex-environment-helper/1.5.8.zip",
-      "bytes": 455772,
-      "sha256": "222b87066e57272b285ab8e332787cfe7291933c80cdcfdcdf7a0495f6f7f5c2"
+      "package": "packages/codex-environment-helper/1.5.9.zip",
+      "bytes": 462673,
+      "sha256": "38a146a39fed9850536aa5b8bcd97c0ca4248eb5b57006e18037a882042dc75e"
     },
     {
       "id": "codex-system-proxy",
@@ -111,15 +111,15 @@
       "icon": "⊘",
       "iconImage": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNTYiIGhlaWdodD0iMjU2IiB2aWV3Qm94PSIwIDAgMTAwIDEwMCIgcm9sZT0iaW1nIiBhcmlhLWxhYmVsbGVkYnk9InRpdGxlIj4KICA8dGl0bGUgaWQ9InRpdGxlIj5FdmVyeXRoaW5nIOi3r+W+hOaOkumZpDwvdGl0bGU+CiAgPGRlZnM+CiAgICA8bGluZWFyR3JhZGllbnQgaWQ9ImJhY2tncm91bmQiIHgxPSIwIiB5MT0iMCIgeDI9IjEiIHkyPSIxIj4KICAgICAgPHN0b3Agb2Zmc2V0PSIwIiBzdG9wLWNvbG9yPSIjRjE2QTc4Ii8+CiAgICAgIDxzdG9wIG9mZnNldD0iMSIgc3RvcC1jb2xvcj0iI0Q1M0E1QiIvPgogICAgPC9saW5lYXJHcmFkaWVudD4KICA8L2RlZnM+CiAgPHJlY3Qgd2lkdGg9IjEwMCIgaGVpZ2h0PSIxMDAiIHJ4PSIyMyIgZmlsbD0idXJsKCNiYWNrZ3JvdW5kKSIvPgogIDxwYXRoIGQ9Ik0yMCAzNXYzNmE4IDggMCAwIDAgOCA4aDQ0YTggOCAwIDAgMCA4LThWNDFhOCA4IDAgMCAwLTgtOEg0OEwzOSAyM0gyOGE4IDggMCAwIDAtOCA4djRaIiBmaWxsPSJub25lIiBzdHJva2U9IndoaXRlIiBzdHJva2Utd2lkdGg9IjYuNSIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIi8+CiAgPHBhdGggZD0iTTM3IDU3aDI2IiBmaWxsPSJub25lIiBzdHJva2U9IndoaXRlIiBzdHJva2Utd2lkdGg9IjYuNSIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIi8+Cjwvc3ZnPgo=",
       "accent": "#efb56c",
-      "moduleVersion": "1.7.2",
+      "moduleVersion": "1.7.3",
       "developers": [
         "Doorham",
         "Althy"
       ],
       "minimumToolboxVersion": "0.32.24",
-      "package": "packages/everything-exclusions/1.7.2.zip",
-      "bytes": 356104,
-      "sha256": "ec6c7f5c9bc190edce1061c5533a13af16f3d55dc6dee46dfc9a390b4178b24d"
+      "package": "packages/everything-exclusions/1.7.3.zip",
+      "bytes": 360625,
+      "sha256": "d26b50a81d1d67952f6dc1b72d25a99f4dfb2bb62e48a56d180e1590faf003e4"
     },
     {
       "id": "software-environment-checker",
@@ -129,16 +129,16 @@
       "icon": "✓",
       "iconImage": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNTYiIGhlaWdodD0iMjU2IiB2aWV3Qm94PSIwIDAgMTAwIDEwMCIgcm9sZT0iaW1nIiBhcmlhLWxhYmVsbGVkYnk9InRpdGxlIj4KICA8dGl0bGUgaWQ9InRpdGxlIj7ova/ku7blronoo4Xmo4Dmn6U8L3RpdGxlPgogIDxkZWZzPgogICAgPGxpbmVhckdyYWRpZW50IGlkPSJiYWNrZ3JvdW5kIiB4MT0iMCIgeTE9IjAiIHgyPSIxIiB5Mj0iMSI+CiAgICAgIDxzdG9wIG9mZnNldD0iMCIgc3RvcC1jb2xvcj0iIzYyQjY2QyIvPgogICAgICA8c3RvcCBvZmZzZXQ9IjEiIHN0b3AtY29sb3I9IiMyMzhGODMiLz4KICAgIDwvbGluZWFyR3JhZGllbnQ+CiAgPC9kZWZzPgogIDxyZWN0IHdpZHRoPSIxMDAiIGhlaWdodD0iMTAwIiByeD0iMjMiIGZpbGw9InVybCgjYmFja2dyb3VuZCkiLz4KICA8cGF0aCBkPSJtMjIgMzEgNSA1IDEwLTEyIE00OCAzMGgyOSBtLTU1IDIxIDUgNSAxMC0xMiBNNDggNTBoMjkgbS01NSAyMSA1IDUgMTAtMTIgTTQ4IDcwaDI5IiBmaWxsPSJub25lIiBzdHJva2U9IndoaXRlIiBzdHJva2Utd2lkdGg9IjYuNSIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIi8+Cjwvc3ZnPgo=",
       "accent": "#22c55e",
-      "moduleVersion": "1.5.8",
+      "moduleVersion": "1.5.9",
       "developers": [
         "Althy",
         "Doorham",
         "DRHW"
       ],
       "minimumToolboxVersion": "0.32.20",
-      "package": "packages/software-environment-checker/1.5.8.zip",
-      "bytes": 455771,
-      "sha256": "081450c9efe475a9a5b7bb00b34a585e50469e7b21c073ad220b6d152ff3b5ac"
+      "package": "packages/software-environment-checker/1.5.9.zip",
+      "bytes": 462673,
+      "sha256": "28d37b438e12c059e2b9b2a6c1f10160acdd3a004ba57e7550ad78a2c6b6f960"
     },
     {
       "id": "updream-bridge",
@@ -148,7 +148,7 @@
       "icon": "▧",
       "iconImage": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNTYiIGhlaWdodD0iMjU2IiB2aWV3Qm94PSIwIDAgMTAwIDEwMCIgcm9sZT0iaW1nIiBhcmlhLWxhYmVsbGVkYnk9InRpdGxlIj4KICA8dGl0bGUgaWQ9InRpdGxlIj5VcGRyZWFtQnJpZGdlIOWbvueJh+eUn+aIkDwvdGl0bGU+CiAgPGRlZnM+CiAgICA8bGluZWFyR3JhZGllbnQgaWQ9ImJhY2tncm91bmQiIHgxPSIwIiB5MT0iMCIgeDI9IjEiIHkyPSIxIj4KICAgICAgPHN0b3Agb2Zmc2V0PSIwIiBzdG9wLWNvbG9yPSIjRTU2RUFEIi8+CiAgICAgIDxzdG9wIG9mZnNldD0iMSIgc3RvcC1jb2xvcj0iI0I3NDI5MSIvPgogICAgPC9saW5lYXJHcmFkaWVudD4KICA8L2RlZnM+CiAgPHJlY3Qgd2lkdGg9IjEwMCIgaGVpZ2h0PSIxMDAiIHJ4PSIyMyIgZmlsbD0idXJsKCNiYWNrZ3JvdW5kKSIvPgogIDxyZWN0IHg9IjIwIiB5PSIyNSIgd2lkdGg9IjYwIiBoZWlnaHQ9IjUyIiByeD0iMTAiIGZpbGw9Im5vbmUiIHN0cm9rZT0id2hpdGUiIHN0cm9rZS13aWR0aD0iNi41IiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiLz4KICA8Y2lyY2xlIGN4PSIzNyIgY3k9IjQyIiByPSI2IiBmaWxsPSJ3aGl0ZSIvPgogIDxwYXRoIGQ9Im0yMiA2NyAxNy0xMyAxMyAxMCAxMi0xOCAxNSAyMCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSJ3aGl0ZSIgc3Ryb2tlLXdpZHRoPSI2LjUiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCIvPgo8L3N2Zz4K",
       "accent": "#4653dd",
-      "moduleVersion": "1.2.3",
+      "moduleVersion": "1.2.4",
       "developers": [
         "Doorham",
         "Althy",
@@ -156,9 +156,9 @@
         "Codex"
       ],
       "minimumToolboxVersion": "0.32.20",
-      "package": "packages/updream-bridge/1.2.3.zip",
-      "bytes": 667913,
-      "sha256": "eba998643f6abbbc243b9b8d02b565adb4bdab22447688d822d3df75ef5b8ba2"
+      "package": "packages/updream-bridge/1.2.4.zip",
+      "bytes": 655728,
+      "sha256": "908bd00689638e8bb036b67e7f83e5d534a289390e46d605d36355a3b40c591d"
     },
     {
       "id": "updream-clipboard-cleaner",
