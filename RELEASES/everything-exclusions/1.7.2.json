@@ -40,7 +40,7 @@
   "queueChecks": 20,
   "otherMachinesVerified": false,
   "realUserRulesModified": false,
-  "status": "published",
+  "status": "published-installed-and-verified",
   "nasPublished": true,
   "githubPublished": true,
   "localInstalled": true,
@@ -66,5 +66,14 @@
   "desktopIdleVerified": true,
   "desktopExitDialogVisible": false,
   "desktopBusinessActionsPerformed": false,
-  "priorSyncFailure": "GitHub integration Git-data writes returned 403; initial Git DNS failed. Later normal Git network/authentication recovered; no integration permissions changed."
+  "githubCommit": "e0629f24515dcad6b0e19c499baedf949531fc15",
+  "remotePackageDownloadVerified": true,
+  "remoteSourceDownloadVerified": true,
+  "completedAt": "2026-10-26T14:30:44+08:00",
+  "syncHistory": [
+    "GitHub integration Git-data writes returned 403; integration permissions were not changed.",
+    "Initial Git DNS resolution failed; subsequent normal Git connection recovered.",
+    "Published through the existing authenticated Git workflow and downloaded both remote ZIPs to verify hashes."
+  ],
+  "publicationLog": "DEVLOG-PUBLICATION-1.7.2.md"
 }
