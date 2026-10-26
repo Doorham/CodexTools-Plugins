@@ -68,21 +68,21 @@
     {
       "id": "codex-environment-helper",
       "name": "Codex 环境补全",
-      "description": "检测并补全运行依赖；UTF-8 仅用于具体 Python/文本读取流程，不再修改 Windows 全局编码。保留按本机备份恢复原编码的入口。",
+      "description": "按场景处理文字编码，检测并补全运行依赖；Git身份配置与提交自检分开，保留系统原生编码及本机状态。",
       "category": "开发环境",
       "icon": "+",
       "iconImage": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNTYiIGhlaWdodD0iMjU2IiB2aWV3Qm94PSIwIDAgMTAwIDEwMCIgcm9sZT0iaW1nIiBhcmlhLWxhYmVsbGVkYnk9InRpdGxlIj4KICA8dGl0bGUgaWQ9InRpdGxlIj5Db2RleCDnjq/looPooaXlhag8L3RpdGxlPgogIDxkZWZzPgogICAgPGxpbmVhckdyYWRpZW50IGlkPSJiYWNrZ3JvdW5kIiB4MT0iMCIgeTE9IjAiIHgyPSIxIiB5Mj0iMSI+CiAgICAgIDxzdG9wIG9mZnNldD0iMCIgc3RvcC1jb2xvcj0iIzQzQTVFRiIvPgogICAgICA8c3RvcCBvZmZzZXQ9IjEiIHN0b3AtY29sb3I9IiMzODY3REIiLz4KICAgIDwvbGluZWFyR3JhZGllbnQ+CiAgPC9kZWZzPgogIDxyZWN0IHdpZHRoPSIxMDAiIGhlaWdodD0iMTAwIiByeD0iMjMiIGZpbGw9InVybCgjYmFja2dyb3VuZCkiLz4KICA8cGF0aCBkPSJNMjQgMzQgNDggMjEgNzIgMzQgNDggNDhaIE0yNCAzNHYyOWwyNCAxNVY0OCBNNzIgMzR2MTgiIGZpbGw9Im5vbmUiIHN0cm9rZT0id2hpdGUiIHN0cm9rZS13aWR0aD0iNi41IiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiLz4KICA8cGF0aCBkPSJNNjUgNjVoMjBNNzUgNTV2MjAiIGZpbGw9Im5vbmUiIHN0cm9rZT0id2hpdGUiIHN0cm9rZS13aWR0aD0iNi41IiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiLz4KPC9zdmc+Cg==",
       "accent": "#3b82f6",
-      "moduleVersion": "1.5.5",
+      "moduleVersion": "1.5.6",
       "developers": [
         "Althy",
         "Doorham",
         "DRHW"
       ],
       "minimumToolboxVersion": "0.32.20",
-      "package": "packages/codex-environment-helper/1.5.5.zip",
-      "bytes": 429821,
-      "sha256": "b68795e12e14cf0cae8a55373325c6c8db4c31bbce6babc7b0665af686bc8874"
+      "package": "packages/codex-environment-helper/1.5.6.zip",
+      "bytes": 443177,
+      "sha256": "f7c2732f4fb746a7754f2d8bf54006ea686c67b972f522f1433261f6187d2afa"
     },
     {
       "id": "codex-system-proxy",
@@ -123,21 +123,21 @@
     {
       "id": "software-environment-checker",
       "name": "软件安装检查",
-      "description": "检查开发工具、Python、PowerShell、.NET、FFmpeg、LibreOffice 与编辑器集成；提供手动下载入口，安装包由用户自行运行。WebView2 与小型依赖由 Codex 环境补全管理。",
+      "description": "按本页范围检查软件与集成；提供已核验官方下载、取消与超时反馈，完成校验后保存安装包，不覆盖已有下载。",
       "category": "开发环境",
       "icon": "✓",
       "iconImage": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNTYiIGhlaWdodD0iMjU2IiB2aWV3Qm94PSIwIDAgMTAwIDEwMCIgcm9sZT0iaW1nIiBhcmlhLWxhYmVsbGVkYnk9InRpdGxlIj4KICA8dGl0bGUgaWQ9InRpdGxlIj7ova/ku7blronoo4Xmo4Dmn6U8L3RpdGxlPgogIDxkZWZzPgogICAgPGxpbmVhckdyYWRpZW50IGlkPSJiYWNrZ3JvdW5kIiB4MT0iMCIgeTE9IjAiIHgyPSIxIiB5Mj0iMSI+CiAgICAgIDxzdG9wIG9mZnNldD0iMCIgc3RvcC1jb2xvcj0iIzYyQjY2QyIvPgogICAgICA8c3RvcCBvZmZzZXQ9IjEiIHN0b3AtY29sb3I9IiMyMzhGODMiLz4KICAgIDwvbGluZWFyR3JhZGllbnQ+CiAgPC9kZWZzPgogIDxyZWN0IHdpZHRoPSIxMDAiIGhlaWdodD0iMTAwIiByeD0iMjMiIGZpbGw9InVybCgjYmFja2dyb3VuZCkiLz4KICA8cGF0aCBkPSJtMjIgMzEgNSA1IDEwLTEyIE00OCAzMGgyOSBtLTU1IDIxIDUgNSAxMC0xMiBNNDggNTBoMjkgbS01NSAyMSA1IDUgMTAtMTIgTTQ4IDcwaDI5IiBmaWxsPSJub25lIiBzdHJva2U9IndoaXRlIiBzdHJva2Utd2lkdGg9IjYuNSIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIi8+Cjwvc3ZnPgo=",
       "accent": "#22c55e",
-      "moduleVersion": "1.5.5",
+      "moduleVersion": "1.5.6",
       "developers": [
         "Althy",
         "Doorham",
         "DRHW"
       ],
       "minimumToolboxVersion": "0.32.20",
-      "package": "packages/software-environment-checker/1.5.5.zip",
-      "bytes": 429854,
-      "sha256": "40cfbf68df386c8bfbf7e95b47f5981bf3af8019a8c99c1fd67d7d726d5b0c6f"
+      "package": "packages/software-environment-checker/1.5.6.zip",
+      "bytes": 443180,
+      "sha256": "08299d6e25dea98e639749b9b0246fa1eca95eb2e5a727e2d04b9c47025fcb93"
     },
     {
       "id": "updream-bridge",

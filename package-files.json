@@ -40,19 +40,20 @@
     },
     {
       "id": "codex-environment-helper",
-      "version": "1.5.5",
+      "version": "1.5.6",
       "files": {
-        "DEVLOG.md": "33aa520f5cb938190e1000a82184272d6e2e771025075fb73bbc3a6f34d42af2",
-        "DOWNLOAD-SOURCES.json": "d1853f7e4a95cfd579a79e7eec02737d68835676d63a509a0df633e8b7cd5190",
-        "ENCODING.md": "18a9eb019f99852155008839385d9d0b4f93d075e3f0b95d13548e5538259aa4",
-        "LICENSE": "1eb85fc97224598dad1852b5d6483bbcf0aa8608790dcc657a5a2a761ae9c8c6",
         "artwork/ARTWORK.json": "b0b0b3e2473d0c439c9e6bf9c0df95c3d2e20323ef67bf84f873482269f7bd1f",
         "artwork/icon.svg": "a34902074a2f6d7c3da73d996e7a2b41a98aaa478e0228ee06da343d8f9de1bd",
-        "bin/EnvironmentDetector.exe": "376918c04894c75c58a77d9fd3ee4b997486f7b1f59acc464a6b98697fe9a120",
+        "bin/EnvironmentDetector.exe": "4c353b26c1e77490f395881df5b74b690e99d0e614ade336411208704cdad199",
+        "bin/install-from-library.ps1": "0554f655e27988fd730240d3e24e0f01d80529c9340ecb7fc4d8bb405e56f492",
         "bin/INSTALLER-LIBRARY.lock.json": "0086047c509d11f86bac6244826ae0e1147d0dc8b630a3106d6a4e92deb0e4c6",
         "bin/THIRD-PARTY-NOTICES.md": "b170a900e88fc2b9c17abf52ac57ddcc10e916bcff6dd09c7f65d0eb9da6cff1",
-        "bin/install-from-library.ps1": "0554f655e27988fd730240d3e24e0f01d80529c9340ecb7fc4d8bb405e56f492",
-        "plugin.json": "8cc14e299a6a2882f3ba70222f96e408a2d96c64bce0090033864144150e23e6"
+        "DEVLOG.md": "ef4a4d537d7902e708db7a904076a20b00f20c0a231d070bcac45769fb56fab1",
+        "DOWNLOAD-SOURCES.json": "ac524bbc5031ec603f1b8729d70368cc449e716cb739f324334d662d24795e13",
+        "ENCODING.md": "e2e8a1dfc506269d102ae18f0f4d9c83ef9828c0c804f7b8a8f176c41aad4c6f",
+        "plugin.json": "abf4251dcee8ae3c2f331f11510f49b49a219aef6296aa2bb9762cfa8d9fe383",
+        "README.md": "72fa53455b48877a2747776849f5db84835c6c5042102aa36c10b01df2143959",
+        "SOURCE-HANDOFF.json": "6c5dac063c4d2748f5af7a76217fadcfd2fd9269712dabdfac15be66088b555a"
       }
     },
     {
@@ -91,19 +92,20 @@
     },
     {
       "id": "software-environment-checker",
-      "version": "1.5.5",
+      "version": "1.5.6",
       "files": {
-        "DEVLOG.md": "667ca3281178e579cb52437389ac0dab9b0585cd42638a0a169eb7687c3bb840",
-        "DOWNLOAD-SOURCES.json": "d1853f7e4a95cfd579a79e7eec02737d68835676d63a509a0df633e8b7cd5190",
-        "ENCODING.md": "18a9eb019f99852155008839385d9d0b4f93d075e3f0b95d13548e5538259aa4",
-        "LICENSE": "1eb85fc97224598dad1852b5d6483bbcf0aa8608790dcc657a5a2a761ae9c8c6",
         "artwork/ARTWORK.json": "9fa96aed05d82b7a0c1796f38092acc4789b99ce1981ef3f377635f7889e5532",
         "artwork/icon.svg": "7e24bf51128bb05b025f63b063f4b31c2914dd1136efc18f737a69dfd9094778",
-        "bin/EnvironmentDetector.exe": "376918c04894c75c58a77d9fd3ee4b997486f7b1f59acc464a6b98697fe9a120",
+        "bin/EnvironmentDetector.exe": "4c353b26c1e77490f395881df5b74b690e99d0e614ade336411208704cdad199",
+        "bin/install-from-library.ps1": "0554f655e27988fd730240d3e24e0f01d80529c9340ecb7fc4d8bb405e56f492",
         "bin/INSTALLER-LIBRARY.lock.json": "0086047c509d11f86bac6244826ae0e1147d0dc8b630a3106d6a4e92deb0e4c6",
         "bin/THIRD-PARTY-NOTICES.md": "b170a900e88fc2b9c17abf52ac57ddcc10e916bcff6dd09c7f65d0eb9da6cff1",
-        "bin/install-from-library.ps1": "0554f655e27988fd730240d3e24e0f01d80529c9340ecb7fc4d8bb405e56f492",
-        "plugin.json": "082b5c74482ce2975a2e9ec946e2a74e4ab1fe200709100a10d61e037308169b"
+        "DEVLOG.md": "995de70e179139479623d057c22c6d54486d5c6411959849f20998e99cccf83f",
+        "DOWNLOAD-SOURCES.json": "ac524bbc5031ec603f1b8729d70368cc449e716cb739f324334d662d24795e13",
+        "ENCODING.md": "e2e8a1dfc506269d102ae18f0f4d9c83ef9828c0c804f7b8a8f176c41aad4c6f",
+        "plugin.json": "4e4322242221c505e1b82cefd0f793642004cb486cc3df7d00c4d90e84b95bf2",
+        "README.md": "011b8e6ee5a6d96f1592587538fbffb1ae5efc1cf82448cfcb527741eb46f23e",
+        "SOURCE-HANDOFF.json": "52529a33b0ed2c8f53841e5b65cf1dd81ba7cb8e31ef0a4c8b53dd79fbb98d0b"
       }
     },
     {

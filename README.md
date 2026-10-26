@@ -9,10 +9,10 @@ Codex 工具箱安装版的公共插件库。维护署名：Codex、Althy。
 | Arctis Nova 5 电量监控 | 1.0.5 | [ZIP](packages/arctis-nova-5-battery/1.0.5.zip) |
 | 国内网站直连 | 1.2.18 | [ZIP](packages/cn-proxy-bypass/1.2.18.zip) |
 | Codex 完成提示音 | 1.1.3 | [ZIP](packages/codex-answer-chime/1.1.3.zip) |
-| Codex 环境补全 | 1.5.5 | [ZIP](packages/codex-environment-helper/1.5.5.zip) |
+| Codex 环境补全 | 1.5.6 | [ZIP](packages/codex-environment-helper/1.5.6.zip) |
 | Codex 对话 timeout 修复 | 1.1.3 | [ZIP](packages/codex-system-proxy/1.1.3.zip) |
 | Everything 路径排除 | 1.7.2 | [ZIP](packages/everything-exclusions/1.7.2.zip) |
-| 软件安装检查 | 1.5.5 | [ZIP](packages/software-environment-checker/1.5.5.zip) |
+| 软件安装检查 | 1.5.6 | [ZIP](packages/software-environment-checker/1.5.6.zip) |
 | UpdreamBridge 图片生成 | 1.2.3 | [ZIP](packages/updream-bridge/1.2.3.zip) |
 | Updream 剪贴板清理 | 1.0.7 | [ZIP](packages/updream-clipboard-cleaner/1.0.7.zip) |
 | 微信语音输入远程状态监听板 | 1.0.15 | [ZIP](packages/wetype-awesun-bridge/1.0.15.zip) |
@@ -40,3 +40,5 @@ Codex 工具箱安装版的公共插件库。维护署名：Codex、Althy。
 ## Everything 1.7.1 · 2026-10-26 · Doorham
 
 修复 Everything 不响应退出时只能报错的问题：经用户确认才结束原进程并恢复操作，取消保留规则和卡片；清理本次退出命令，结束前备份已保存配置。客户端 0.32.25 不变。143 项独立实例及界面检查通过。[发布记录](RELEASES/everything-exclusions/1.7.1.json)。
+
+环境补全与软件安装检查1.5.6：按场景编码、Git初始化、独立检测与安全下载；见[更新记录](RELEASES/2026-10-26-environment-1.5.6.md)。已有客户端只更新插件，无需Setup。
