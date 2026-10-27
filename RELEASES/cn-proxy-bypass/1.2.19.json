@@ -22,7 +22,7 @@
     "plugin.json": "5a3f156a4600cce68127da6d9009a7edf2e2ebd3e2b459fcbea70745d795f3d1"
   },
   "clientChanges": false,
-  "status": "prepared-for-publication",
+  "status": "published-remote-package-readback-verified",
   "channel": "github-public",
   "distributionPath": "Plugins/Local/cn-proxy-bypass",
   "verification": {
@@ -31,8 +31,27 @@
     "rootAndWildcardRulesVerified": true,
     "zipCRCAndSHA256": true,
     "clientUnpackProtocol": true,
-    "otherMachinesVerified": false
+    "otherMachinesVerified": false,
+    "actualClientCardVersion": "1.2.19",
+    "actualClientVersion": "0.32.25",
+    "builtinEntries": "328/328",
+    "customDomainsCount": 9,
+    "clashBypass": "340/340",
+    "allSixNewEntriesPresentInWindowsAndClash": true,
+    "developerEntryCreated": false
+  },
+  "localInstallation": {
+    "installed": true,
+    "moduleVersion": "1.2.19",
+    "payloadHashesMatch": true,
+    "customDomainsFilePreserved": true,
+    "clientBinaryUnchanged": true,
+    "method": "existing PluginHub.install_plugin NAS update protocol"
   },
   "repository": "https://github.com/Doorham/CodexTools-Plugins",
-  "packageRepositoryPath": "packages/cn-proxy-bypass/1.2.19.zip"
+  "publishedCommit": "06cc80c822a2c483f2932070cd5d26bb6cde7f03",
+  "branch": "main",
+  "packageRepositoryPath": "packages/cn-proxy-bypass/1.2.19.zip",
+  "catalogReadbackMatches": true,
+  "remotePackageDownloadVerified": true
 }
