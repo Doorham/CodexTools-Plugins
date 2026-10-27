@@ -1,0 +1,38 @@
+{
+  "schemaVersion": 1,
+  "id": "cn-proxy-bypass",
+  "moduleVersion": "1.2.19",
+  "previousChannelVersion": "1.2.18",
+  "channelDeveloper": "Doorham",
+  "recordedAt": "2026-10-27T16:31:25.165732+08:00",
+  "addedDomains": [
+    "moonshot.ai",
+    "kimi.cn",
+    "kimi.com.cn"
+  ],
+  "builtinDomainCount": 164,
+  "packageSHA256": "f2fe6a294b8a46da55c81598d4fd137af961dda919df906ba41275b583b8f71a",
+  "packageBytes": 12480,
+  "filesSHA256": {
+    "artwork/ARTWORK.json": "e1d7057941232b433c45ab7eb362901530040b1ce2c8b0a10f123bb596f99ac8",
+    "artwork/icon.svg": "7a2b90c801682b1d2c0d2ddae144541c675b4b79f063482104267942610c2f2a",
+    "CHANGELOG.md": "c425aed14a7a2c4f417f280f6fb23e2d9e12cb4fece66cb07a201586f94a548d",
+    "DEVLOG.md": "9e0c5a02f5b9f560b35c87cbaec79f873737edf297415640c0f1d3201c5443c4",
+    "LICENSE": "1eb85fc97224598dad1852b5d6483bbcf0aa8608790dcc657a5a2a761ae9c8c6",
+    "plugin.json": "5a3f156a4600cce68127da6d9009a7edf2e2ebd3e2b459fcbea70745d795f3d1"
+  },
+  "clientChanges": false,
+  "status": "prepared-for-publication",
+  "channel": "github-public",
+  "distributionPath": "Plugins/Local/cn-proxy-bypass",
+  "verification": {
+    "manifestDeltaOnlyRequestedDomains": true,
+    "originalDomainsPreserved": true,
+    "rootAndWildcardRulesVerified": true,
+    "zipCRCAndSHA256": true,
+    "clientUnpackProtocol": true,
+    "otherMachinesVerified": false
+  },
+  "repository": "https://github.com/Doorham/CodexTools-Plugins",
+  "packageRepositoryPath": "packages/cn-proxy-bypass/1.2.19.zip"
+}

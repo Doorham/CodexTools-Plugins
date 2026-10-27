@@ -30,7 +30,7 @@
       "icon": "↗",
       "iconImage": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNTYiIGhlaWdodD0iMjU2IiB2aWV3Qm94PSIwIDAgMTAwIDEwMCIgcm9sZT0iaW1nIiBhcmlhLWxhYmVsbGVkYnk9InRpdGxlIj4KICA8dGl0bGUgaWQ9InRpdGxlIj7lm73lhoXnvZHnq5nnm7Tov548L3RpdGxlPgogIDxkZWZzPgogICAgPGxpbmVhckdyYWRpZW50IGlkPSJiYWNrZ3JvdW5kIiB4MT0iMCIgeTE9IjAiIHgyPSIxIiB5Mj0iMSI+CiAgICAgIDxzdG9wIG9mZnNldD0iMCIgc3RvcC1jb2xvcj0iIzI0Qjk5MSIvPgogICAgICA8c3RvcCBvZmZzZXQ9IjEiIHN0b3AtY29sb3I9IiMwRDdEODAiLz4KICAgIDwvbGluZWFyR3JhZGllbnQ+CiAgPC9kZWZzPgogIDxyZWN0IHdpZHRoPSIxMDAiIGhlaWdodD0iMTAwIiByeD0iMjMiIGZpbGw9InVybCgjYmFja2dyb3VuZCkiLz4KICA8Y2lyY2xlIGN4PSI0NyIgY3k9IjQ4IiByPSIyNiIgZmlsbD0ibm9uZSIgc3Ryb2tlPSJ3aGl0ZSIgc3Ryb2tlLXdpZHRoPSI1LjUiLz4KICA8cGF0aCBkPSJNMjMgNDhoNDhNNDcgMjJjLTE0IDEzLTE0IDM5IDAgNTJNNDcgMjJjOSA5IDEyIDIxIDEwIDMzIiBmaWxsPSJub25lIiBzdHJva2U9IndoaXRlIiBzdHJva2Utd2lkdGg9IjUuNSIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIi8+CiAgPHBhdGggZD0iTTU5IDY4aDIzbS05LTkgOSA5LTkgOSIgZmlsbD0ibm9uZSIgc3Ryb2tlPSJ3aGl0ZSIgc3Ryb2tlLXdpZHRoPSI3IiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiLz4KPC9zdmc+Cg==",
       "accent": "#f59e0b",
-      "moduleVersion": "1.2.18",
+      "moduleVersion": "1.2.19",
       "developers": [
         "Doorham",
         "Althy",
@@ -41,9 +41,9 @@
         "DeepSeek Harness"
       ],
       "minimumToolboxVersion": "0.32.20",
-      "package": "packages/cn-proxy-bypass/1.2.18.zip",
-      "bytes": 11459,
-      "sha256": "e585154cc570802bd75d4005b07c2b2a2491214ddc53dfd8993ff8892bacd39f"
+      "package": "packages/cn-proxy-bypass/1.2.19.zip",
+      "bytes": 12480,
+      "sha256": "f2fe6a294b8a46da55c81598d4fd137af961dda919df906ba41275b583b8f71a"
     },
     {
       "id": "codex-answer-chime",
