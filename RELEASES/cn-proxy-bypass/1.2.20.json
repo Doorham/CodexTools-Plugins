@@ -1,0 +1,42 @@
+{
+  "schemaVersion": 1,
+  "id": "cn-proxy-bypass",
+  "moduleVersion": "1.2.20",
+  "previousChannelVersion": "1.2.19",
+  "channelDeveloper": "Doorham",
+  "recordedAt": "2026-10-28T16:16:09.892822+08:00",
+  "addedDomains": [
+    "dingtalk.com",
+    "alidocs.oss-cn-zhangjiakou.aliyuncs.com",
+    "dingtalk-h5.cn-zhangjiakou.log.aliyuncs.com",
+    "ai-alimebot.lydaas.com"
+  ],
+  "builtinDomainCount": 168,
+  "packageSHA256": "9c3375e472a276dc39a9751df96fde45b41775a92c6f1af09730c0fd72ae1c74",
+  "packageBytes": 15696,
+  "filesSHA256": {
+    "artwork/ARTWORK.json": "e1d7057941232b433c45ab7eb362901530040b1ce2c8b0a10f123bb596f99ac8",
+    "artwork/icon.svg": "7a2b90c801682b1d2c0d2ddae144541c675b4b79f063482104267942610c2f2a",
+    "CHANGELOG.md": "c592c7873c21594869435416b0154b176a905d7fd3134669220c857f3542eef2",
+    "DEVLOG.md": "9c82df07e4e0dd326a196b69823bf882e3336b6cea997696f4a85cb3659f6045",
+    "DINGTALK-SCOPE.md": "0aeab843eaf2dc73838175815f4e6add6cc65104d4ee7c91030ee6c9a29cda54",
+    "DOMAIN-EVIDENCE.json": "66dae73724c07300f505896fbf355b9d73b2f62251cbd1b223eb1bd472678ce8",
+    "LICENSE": "1eb85fc97224598dad1852b5d6483bbcf0aa8608790dcc657a5a2a761ae9c8c6",
+    "plugin.json": "991b7f9d3f77256e1372c6a2954eff05aa4f9a0e4b11fa76a16b3e193aa34367"
+  },
+  "clientChanges": false,
+  "status": "prepared-for-publication",
+  "auditScope": "See DINGTALK-SCOPE.md and DOMAIN-EVIDENCE.json; 31 fetched public documents, not authenticated all-service traffic.",
+  "channel": "github-public",
+  "distributionPath": "Plugins/Local/cn-proxy-bypass",
+  "verification": {
+    "manifestDeltaOnlyRequestedDomains": true,
+    "originalDomainsPreserved": true,
+    "rootAndWildcardRulesVerified": true,
+    "zipCRCAndSHA256": true,
+    "clientUnpackProtocol": true,
+    "otherMachinesVerified": false
+  },
+  "repository": "https://github.com/Doorham/CodexTools-Plugins",
+  "packageRepositoryPath": "packages/cn-proxy-bypass/1.2.20.zip"
+}
