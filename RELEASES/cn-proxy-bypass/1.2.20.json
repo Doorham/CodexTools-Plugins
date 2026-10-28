@@ -25,7 +25,7 @@
     "plugin.json": "991b7f9d3f77256e1372c6a2954eff05aa4f9a0e4b11fa76a16b3e193aa34367"
   },
   "clientChanges": false,
-  "status": "prepared-for-publication",
+  "status": "published-remote-package-readback-verified",
   "auditScope": "See DINGTALK-SCOPE.md and DOMAIN-EVIDENCE.json; 31 fetched public documents, not authenticated all-service traffic.",
   "channel": "github-public",
   "distributionPath": "Plugins/Local/cn-proxy-bypass",
@@ -35,8 +35,28 @@
     "rootAndWildcardRulesVerified": true,
     "zipCRCAndSHA256": true,
     "clientUnpackProtocol": true,
-    "otherMachinesVerified": false
+    "otherMachinesVerified": false,
+    "builtinEntriesVerified": 336,
+    "newEntriesVerified": 8,
+    "windowsAllRequiredPresent": true,
+    "clashAllRequiredPresent": true,
+    "installedClientRefreshSuccessful": true,
+    "actualClientGUIObserved": false,
+    "developerEntryCreated": false,
+    "authenticatedBusinessTested": false
+  },
+  "localInstallation": {
+    "installed": true,
+    "moduleVersion": "1.2.20",
+    "payloadHashesMatch": true,
+    "customDomainsFilePreserved": true,
+    "clientBinaryUnchanged": true,
+    "method": "existing PluginHub.install_plugin NAS update protocol"
   },
   "repository": "https://github.com/Doorham/CodexTools-Plugins",
-  "packageRepositoryPath": "packages/cn-proxy-bypass/1.2.20.zip"
+  "publishedCommit": "a159b883e8d65cd7540cf6bf83648516984013bc",
+  "branch": "main",
+  "packageRepositoryPath": "packages/cn-proxy-bypass/1.2.20.zip",
+  "remotePackageDownloadVerified": true,
+  "catalogReadbackMatches": true
 }
