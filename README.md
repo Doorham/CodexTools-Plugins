@@ -9,10 +9,10 @@ Codex 工具箱安装版的公共插件库。维护署名：Codex、Althy。
 | Arctis Nova 5 电量监控 | 1.0.5 | [ZIP](packages/arctis-nova-5-battery/1.0.5.zip) |
 | 国内网站直连 | 1.2.20 | [ZIP](packages/cn-proxy-bypass/1.2.20.zip) |
 | Codex 完成提示音 | 1.2.0 | [ZIP](packages/codex-answer-chime/1.2.0.zip) |
-| Codex 环境补全 | 1.5.9 | [ZIP](packages/codex-environment-helper/1.5.9.zip) |
+| Codex 环境补全 | 1.5.10 | [ZIP](packages/codex-environment-helper/1.5.10.zip) |
 | Codex 对话 timeout 修复 | 1.1.3 | [ZIP](packages/codex-system-proxy/1.1.3.zip) |
 | Everything 路径排除 | 1.7.5 | [ZIP](packages/everything-exclusions/1.7.5.zip) |
-| 软件安装检查 | 1.5.9 | [ZIP](packages/software-environment-checker/1.5.9.zip) |
+| 软件安装检查 | 1.5.10 | [ZIP](packages/software-environment-checker/1.5.10.zip) |
 | UpdreamBridge 图片生成 | 1.2.4 | [ZIP](packages/updream-bridge/1.2.4.zip) |
 | Updream 剪贴板清理 | 1.0.7 | [ZIP](packages/updream-clipboard-cleaner/1.0.7.zip) |
 | 微信语音输入远程状态监听板 | 1.0.15 | [ZIP](packages/wetype-awesun-bridge/1.0.15.zip) |
@@ -52,3 +52,5 @@ Codex 工具箱安装版的公共插件库。维护署名：Codex、Althy。
 Everything 1.7.4：共享配置附带 JPG 缩略图，接收端独立缓存，保留本机封面及旧路径兼容。原上传端使用原署名重新上传一次，再由接收端同步。独立更新插件，无需升级客户端。见[发布记录](RELEASES/2026-10-26-everything-1.7.4.md)与[对应源码](sources/everything-exclusions/1.7.4.zip)。
 
 Everything 1.7.5：连续清除共用一次规则事务，等待退出时追加的清除一并处理，保持FIFO边界与整批失败恢复；JPG共享保持。独立更新插件，无需升级客户端。见[发布记录](RELEASES/2026-10-26-everything-1.7.5.md)与[对应源码](sources/everything-exclusions/1.7.5.zip)。
+
+PowerShell 独立 MSI 配置：环境两项 1.5.10，见[交付记录](RELEASES/2026-10-30-environment-powershell-1.5.10.md)与[源码](sources/environment-tools/1.5.10.zip)。

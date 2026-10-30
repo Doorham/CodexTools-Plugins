@@ -42,21 +42,23 @@
     },
     {
       "id": "codex-environment-helper",
-      "version": "1.5.9",
+      "version": "1.5.10",
       "files": {
-        "DEVLOG.md": "38cfcd76597028b15331469ee586c88c09e6598874c455131624b4557a6508c3",
+        "DEVLOG.md": "9c89e8aa47bb325ab4a5e440f5bb3620d724c9b3c62bc20c6624c13514d97b38",
         "DOWNLOAD-SOURCES.json": "fc81d52fff76d5549556c33e10603845633e5338b73d7b2c0e773787ff798277",
         "ENCODING.md": "73d71b0bebda3ae199bb3f13d460dcd9022119bdff07b67bdea268f80ca65647",
         "GIT-FIRST-RUN.md": "bed3bcaf81da7d6decfba47aa1c85d6990dcc204ae3e00049d20b2d53c0e0b7a",
-        "README.md": "6285b3a6be567eab2fbc7dc8baa4c6c68d8d236d6f9c5bb15f7f6527fa3856b0",
-        "SOURCE-HANDOFF.json": "4392b2c89f62a22db1b04f1caa82e0c9efcf4c91c4be1fdfea0148effc93ba37",
+        "POWERSHELL.md": "f9c4d7d3591bbe52f2fdfcf27e4c42a3b1ebacedf9d96a22e8b6a376f22783ef",
+        "README.md": "580e2d2182493951c1350e7e329d86ae13ccfb05f525e4eb1c0a9d805f95b8c8",
+        "SOURCE-HANDOFF.json": "f247808808deb1f984daae5bcd799e7f10305fb6418d008636e5cc83da3ef7b9",
         "artwork/ARTWORK.json": "a683e5c481f39f889ad267127fc74ff197796c989e7bbcf9a6f9904f51c95e60",
         "artwork/icon.svg": "a34902074a2f6d7c3da73d996e7a2b41a98aaa478e0228ee06da343d8f9de1bd",
-        "bin/EnvironmentDetector.exe": "3e3e55a725c753fb31ef968036a57c6c1d902ee38932ab487fd6387d5b1f3707",
+        "bin/EnvironmentDetector.exe": "8ccfeda94e4fc7fe8cc3f48fdf38348fd28997f574d332a671a68b3bee386143",
         "bin/INSTALLER-LIBRARY.lock.json": "0086047c509d11f86bac6244826ae0e1147d0dc8b630a3106d6a4e92deb0e4c6",
         "bin/THIRD-PARTY-NOTICES.md": "b170a900e88fc2b9c17abf52ac57ddcc10e916bcff6dd09c7f65d0eb9da6cff1",
-        "bin/install-from-library.ps1": "0554f655e27988fd730240d3e24e0f01d80529c9340ecb7fc4d8bb405e56f492",
-        "plugin.json": "6e73efc5fb6fda0b780f455a5541fa544ef08c05c06d02363b240f4708799473"
+        "bin/configure-powershell-msi.ps1": "09a2c87cca27118b1a7d9c1f5c6d8f9f977469fc174655f902f3135690beebb2",
+        "bin/install-from-library.ps1": "6c2afa8dc7b3ef6ee6ba65295753020c909c157c71d9c8bd00bdadbb45cd3751",
+        "plugin.json": "da4143130c9690da7f52217072cbfd6d77d9bc01173bd4cd04918ff2a289f1e3"
       }
     },
     {
@@ -98,21 +100,23 @@
     },
     {
       "id": "software-environment-checker",
-      "version": "1.5.9",
+      "version": "1.5.10",
       "files": {
-        "DEVLOG.md": "d1e7810a45d73f7632d13f869d72e4ffd4183d5d53d5817fe18c2ee9211a91bb",
+        "DEVLOG.md": "9c89e8aa47bb325ab4a5e440f5bb3620d724c9b3c62bc20c6624c13514d97b38",
         "DOWNLOAD-SOURCES.json": "fc81d52fff76d5549556c33e10603845633e5338b73d7b2c0e773787ff798277",
         "ENCODING.md": "73d71b0bebda3ae199bb3f13d460dcd9022119bdff07b67bdea268f80ca65647",
         "GIT-FIRST-RUN.md": "bed3bcaf81da7d6decfba47aa1c85d6990dcc204ae3e00049d20b2d53c0e0b7a",
-        "README.md": "703d93ddd6eb9ee8b776699646fca9f3cc63d45195acd012f7fe707321a400c8",
-        "SOURCE-HANDOFF.json": "3b62789a5e5b98ea12e6a750b017f99eb1bfb494b79657b832e27ee9b03040f4",
+        "POWERSHELL.md": "f9c4d7d3591bbe52f2fdfcf27e4c42a3b1ebacedf9d96a22e8b6a376f22783ef",
+        "README.md": "580e2d2182493951c1350e7e329d86ae13ccfb05f525e4eb1c0a9d805f95b8c8",
+        "SOURCE-HANDOFF.json": "9e1e8e0b6551c33ae85e2167096cbbaa63fb37b72ef289a81cee913038f32d02",
         "artwork/ARTWORK.json": "32f527c047dbe9b0a7177d50fb5abdd4187948c319269098ed1204ff6567bc65",
         "artwork/icon.svg": "7e24bf51128bb05b025f63b063f4b31c2914dd1136efc18f737a69dfd9094778",
-        "bin/EnvironmentDetector.exe": "3e3e55a725c753fb31ef968036a57c6c1d902ee38932ab487fd6387d5b1f3707",
+        "bin/EnvironmentDetector.exe": "8ccfeda94e4fc7fe8cc3f48fdf38348fd28997f574d332a671a68b3bee386143",
         "bin/INSTALLER-LIBRARY.lock.json": "0086047c509d11f86bac6244826ae0e1147d0dc8b630a3106d6a4e92deb0e4c6",
         "bin/THIRD-PARTY-NOTICES.md": "b170a900e88fc2b9c17abf52ac57ddcc10e916bcff6dd09c7f65d0eb9da6cff1",
-        "bin/install-from-library.ps1": "0554f655e27988fd730240d3e24e0f01d80529c9340ecb7fc4d8bb405e56f492",
-        "plugin.json": "f3819c6935dc6dd56a85d2783c67d2ced6000ef40a9ec54183fd3eb621564c09"
+        "bin/configure-powershell-msi.ps1": "09a2c87cca27118b1a7d9c1f5c6d8f9f977469fc174655f902f3135690beebb2",
+        "bin/install-from-library.ps1": "6c2afa8dc7b3ef6ee6ba65295753020c909c157c71d9c8bd00bdadbb45cd3751",
+        "plugin.json": "7f1d77602eb6409fa6d8d011764c075d7cf15b0fef9208b23c7ca555bdc262fd"
       }
     },
     {
