@@ -15,7 +15,7 @@ Codex 工具箱安装版的公共插件库。维护署名：Codex、Althy。
 | 软件安装检查 | 1.5.10 | [ZIP](packages/software-environment-checker/1.5.10.zip) |
 | UpdreamBridge 图片生成 | 1.2.4 | [ZIP](packages/updream-bridge/1.2.4.zip) |
 | Updream 剪贴板清理 | 1.0.7 | [ZIP](packages/updream-clipboard-cleaner/1.0.7.zip) |
-| 微信语音监听板 | 2.0.0 | [ZIP](packages/wetype-awesun-bridge/2.0.0.zip) |
+| 微信语音监听板 | 2.1.0 | [ZIP](packages/wetype-awesun-bridge/2.1.0.zip) |
 
 同一插件在公司源与 GitHub 同时存在时只显示一项，采用较新版本，同版本优先公司源。已装同版或更高版本不会重复下载或降级。更新沿用原有启停、声音、自启与本机设置保留流程。
 
@@ -56,3 +56,5 @@ Everything 1.7.5：连续清除共用一次规则事务，等待退出时追加�
 PowerShell 独立 MSI 配置：环境两项 1.5.10，见[交付记录](RELEASES/2026-10-30-environment-powershell-1.5.10.md)与[源码](sources/environment-tools/1.5.10.zip)。
 
 微信语音监听板 2.0：录音中可截图、粘贴和切换窗口，向日葵仅在结束时接收；见 [2.0 发布记录](RELEASES/2026-10-31-wetype-2.0.0.md)。
+
+微信语音监听板 2.1：支持鼠标点击结束，本机长期历史按自然日、月、年折叠，保留快捷键与录音中自由操作；见 [2.1 发布记录](RELEASES/2026-11-02-wetype-2.1.0.md)。
