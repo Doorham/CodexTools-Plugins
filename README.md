@@ -5,7 +5,7 @@ Codex 工具箱安装版的公共插件库。维护署名：Codex、Althy。
 工具箱安装或更新：[CodexTools 0.32.30 Setup](https://github.com/Doorham/CodexPlugins/releases/tag/toolbox-v0.32.30)。本次迁移先安装Setup，再将UDB更新至1.4.0；后续同协议UDB业务更新只更新插件。
 
 
-需要工具箱 **0.32.12 或更新版本**。打开“插件中心”可浏览、下载安装；“本机 → 更新插件”检查已安装插件。无需安装 Git 或登录 GitHub，网络需能访问 raw.githubusercontent.com。
+使用[当前正式安装版工具箱](https://github.com/Doorham/CodexPlugins/releases/latest)。本次UDB 1.4.0需要先安装工具箱0.32.30；各插件最低版本以目录条目为准。打开“插件中心”即可自动下载、解压并安装插件；“本机 → 更新插件”检查已安装插件，通常不必手动处理本页ZIP。无需安装Git、配置Python或登录GitHub，网络需能访问raw.githubusercontent.com。
 
 | 插件 | 版本 | 下载 |
 | --- | --- | --- |
@@ -28,7 +28,7 @@ Codex 工具箱安装版的公共插件库。维护署名：Codex、Althy。
 
 维护时从独立的公共分发目录按白名单重新生成包，先测试，再原子提交目录及对应包。已有版本包保持不可变；内容变化应先提升插件版本。package-files.json 记录每个原始公开文件的 SHA256；这些是已有发布包的原件，不声称本轮重新构建了所有插件。
 
-自有项目沿用既有 Apache-2.0 许可；环境工具内的 Microsoft Fluent Emoji 许可见各包的 bin/THIRD-PARTY-NOTICES.md。已有公开源码可参阅 [CodexPlugins](https://github.com/Doorham/CodexPlugins)，其旧网络版版本线与本库独立，不保证旧版本源码与此处二进制逐一对应。
+自有项目沿用既有 Apache-2.0 许可；环境工具内的 Microsoft Fluent Emoji 许可见各包的 bin/THIRD-PARTY-NOTICES.md。[CodexPlugins](https://github.com/Doorham/CodexPlugins)现为正式安装版下载入口；旧散装源码仅保留在[历史分支](https://github.com/Doorham/CodexPlugins/tree/legacy/scattered-toolbox)，不作为当前安装方式，也不代表当前二进制对应源码。
 
 本次同步与验证范围见 [2026-10-23 发布记录](RELEASES/2026-10-23.md)。
 
