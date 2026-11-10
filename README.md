@@ -2,7 +2,7 @@
 
 Codex 工具箱安装版的公共插件库。维护署名：Codex、Althy。
 
-工具箱安装或更新：[CodexTools 0.32.27 Setup](https://github.com/Doorham/CodexTools-Plugins/releases/tag/toolbox-v0.32.27)。先安装 Setup，再在“本机”页一键更新插件；本次修复更新器和微信语音监听板的结束快捷键交接。
+工具箱安装或更新：[CodexTools 0.32.30 Setup](https://github.com/Doorham/CodexPlugins/releases/tag/toolbox-v0.32.30)。本次迁移先安装Setup，再将UDB更新至1.4.0；后续同协议UDB业务更新只更新插件。
 
 
 需要工具箱 **0.32.12 或更新版本**。打开“插件中心”可浏览、下载安装；“本机 → 更新插件”检查已安装插件。无需安装 Git 或登录 GitHub，网络需能访问 raw.githubusercontent.com。
@@ -16,7 +16,7 @@ Codex 工具箱安装版的公共插件库。维护署名：Codex、Althy。
 | Codex 对话 timeout 修复 | 1.1.3 | [ZIP](packages/codex-system-proxy/1.1.3.zip) |
 | Everything 路径排除 | 1.7.5 | [ZIP](packages/everything-exclusions/1.7.5.zip) |
 | 软件安装检查 | 1.5.10 | [ZIP](packages/software-environment-checker/1.5.10.zip) |
-| UpdreamBridge 图片生成 | 1.2.4 | [ZIP](packages/updream-bridge/1.2.4.zip) |
+| UpdreamBridge 图片与视频 | 1.4.0 | [ZIP](packages/updream-bridge/1.4.0.zip) |
 | Updream 剪贴板清理 | 1.0.7 | [ZIP](packages/updream-clipboard-cleaner/1.0.7.zip) |
 | 微信语音监听板 | 2.1.1 | [ZIP](packages/wetype-awesun-bridge/2.1.1.zip) |
 
@@ -63,3 +63,5 @@ PowerShell 独立 MSI 配置：环境两项 1.5.10，见[交付记录](RELEASES/
 微信语音监听板 2.1：支持鼠标点击结束，本机长期历史按自然日、月、年折叠，保留快捷键与录音中自由操作；见 [2.1 发布记录](RELEASES/2026-11-02-wetype-2.1.0.md)。
 
 微信语音监听板 2.1.1：修复结束组合键交接，保留鼠标结束、长文和长期历史；见[更新记录](RELEASES/2026-11-04-wetype-2.1.1.md)。
+
+本轮交付与验证范围见 [0.32.30 与 UDB 1.4.0](RELEASES/2026-11-10-toolbox-0.32.30.md)。

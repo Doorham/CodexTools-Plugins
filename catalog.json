@@ -142,23 +142,23 @@
     },
     {
       "id": "updream-bridge",
-      "name": "UpdreamBridge 图片生成",
-      "description": "配置本机 UpDream 登录，按用户指定模型调用图片生成；含香蕉 2/Pro、Sunburst、Flare、悠船及官方图片模型清单与用法。悠船仅 1K/2K，禁止静默换模型或降级。 图片落盘，只回传状态和路径；展示用本地文件引用，必要质检才看小预览。",
+      "name": "UpdreamBridge 图片与视频",
+      "description": "新增绘梦 2.1 图片生成：1K／2K／4K、1–4 张、最多9张参考图及15种画幅；保留原有图片模型和 Seedance 2.5、Seedance 2.0、Wan 3.0 视频。",
       "category": "图像工具",
       "icon": "▧",
       "iconImage": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNTYiIGhlaWdodD0iMjU2IiB2aWV3Qm94PSIwIDAgMTAwIDEwMCIgcm9sZT0iaW1nIiBhcmlhLWxhYmVsbGVkYnk9InRpdGxlIj4KICA8dGl0bGUgaWQ9InRpdGxlIj5VcGRyZWFtQnJpZGdlIOWbvueJh+eUn+aIkDwvdGl0bGU+CiAgPGRlZnM+CiAgICA8bGluZWFyR3JhZGllbnQgaWQ9ImJhY2tncm91bmQiIHgxPSIwIiB5MT0iMCIgeDI9IjEiIHkyPSIxIj4KICAgICAgPHN0b3Agb2Zmc2V0PSIwIiBzdG9wLWNvbG9yPSIjRTU2RUFEIi8+CiAgICAgIDxzdG9wIG9mZnNldD0iMSIgc3RvcC1jb2xvcj0iI0I3NDI5MSIvPgogICAgPC9saW5lYXJHcmFkaWVudD4KICA8L2RlZnM+CiAgPHJlY3Qgd2lkdGg9IjEwMCIgaGVpZ2h0PSIxMDAiIHJ4PSIyMyIgZmlsbD0idXJsKCNiYWNrZ3JvdW5kKSIvPgogIDxyZWN0IHg9IjIwIiB5PSIyNSIgd2lkdGg9IjYwIiBoZWlnaHQ9IjUyIiByeD0iMTAiIGZpbGw9Im5vbmUiIHN0cm9rZT0id2hpdGUiIHN0cm9rZS13aWR0aD0iNi41IiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiLz4KICA8Y2lyY2xlIGN4PSIzNyIgY3k9IjQyIiByPSI2IiBmaWxsPSJ3aGl0ZSIvPgogIDxwYXRoIGQ9Im0yMiA2NyAxNy0xMyAxMyAxMCAxMi0xOCAxNSAyMCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSJ3aGl0ZSIgc3Ryb2tlLXdpZHRoPSI2LjUiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCIvPgo8L3N2Zz4K",
       "accent": "#4653dd",
-      "moduleVersion": "1.2.4",
+      "moduleVersion": "1.4.0",
       "developers": [
         "Doorham",
         "Althy",
         "DRHW",
         "Codex"
       ],
-      "minimumToolboxVersion": "0.32.20",
-      "package": "packages/updream-bridge/1.2.4.zip",
-      "bytes": 655728,
-      "sha256": "908bd00689638e8bb036b67e7f83e5d534a289390e46d605d36355a3b40c591d"
+      "minimumToolboxVersion": "0.32.30",
+      "package": "packages/updream-bridge/1.4.0.zip",
+      "sha256": "a5b5a3e493bb3797846555378474fe1165123eeb5422da4ec67f612b2651fdc1",
+      "bytes": 11576043
     },
     {
       "id": "updream-clipboard-cleaner",
