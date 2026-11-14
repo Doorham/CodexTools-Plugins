@@ -1,0 +1,27 @@
+{
+  "pluginId": "updream-bridge",
+  "version": "1.5.0",
+  "publishedDate": "2026-11-15",
+  "developers": [
+    "Doorham",
+    "Althy",
+    "DRHW",
+    "Codex"
+  ],
+  "sourceCommit": "0c112932a9a49af3f09f3c173f564a9541e2a268",
+  "githubCommit": "e39271123223540f6c06a8b4155aba52a2d0b151",
+  "release": "https://github.com/Doorham/CodexTools-Plugins/releases/tag/updream-bridge-v1.5.0",
+  "packageSha256": "b0fb933666df5caf96afaa68d8d10807f7d63d111543ee7fe8f12dab7fa21e24",
+  "publicCatalogVersionVerified": true,
+  "publicCatalogRevision": "e39271123223540f6c06a8b4155aba52a2d0b151",
+  "stableCatalogVersionVerified": true,
+  "publicDownloadVerified": true,
+  "nasReadbackVerified": true,
+  "otherPluginEntriesPreserved": 9,
+  "localPublicSourceInstalled": true,
+  "hostUnchanged": true,
+  "minimumToolboxVersion": "0.32.30",
+  "knownDevelopmentManifests": 0,
+  "paidTasksSubmitted": 0,
+  "verification": "47 source checks; 31 packaged checks; unchanged installed host preflight; no paid generation"
+}
