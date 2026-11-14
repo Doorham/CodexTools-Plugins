@@ -121,7 +121,7 @@
     },
     {
       "id": "updream-bridge",
-      "version": "1.4.0",
+      "version": "1.5.0",
       "files": {
         "artwork/ARTWORK.json": "1563788dae61e9057fcce0e1251826392bf78eb57368a22af5fe0b39ed401bf3",
         "artwork/icon.svg": "1301966026bd18ee7ec81c73790c326cc3d3f4c784195889ede49a86c73f2e00",
@@ -181,7 +181,7 @@
         "bin/_internal/api-ms-win-crt-string-l1-1-0.dll": "fcf12466cc12fd3b73611fc0763a5a1f9d44e90349513c34a0c83b0f36421793",
         "bin/_internal/api-ms-win-crt-time-l1-1-0.dll": "886e57c4a6adb299b38f02945369f590a67da4e79a798359fc60aaa067212d7c",
         "bin/_internal/api-ms-win-crt-utility-l1-1-0.dll": "5f8f26b216ade615b67a41f6fbbb910972fc6153315a65bb8f09912be50215b1",
-        "bin/_internal/base_library.zip": "f96300bcf1927facc76ce4869d22a169f89ad882616e4dc7c5b669a88c5d3b97",
+        "bin/_internal/base_library.zip": "b8a064605d7e7ce78905cfe00349de19b12919a69927a4e6be6cc558e1e0388a",
         "bin/_internal/libcrypto-3.dll": "eaf6d613b95b61a39558d84c50e72630a66c99914292df88e7b54ebd60c5bd34",
         "bin/_internal/libffi-8.dll": "eff52743773eb550fcc6ce3efc37c85724502233b6b002a35496d828bd7b280a",
         "bin/_internal/libssl-3.dll": "cf1a5fdcefa3daf69041f31f98ece1d7911ca4fcb8e9f1043b4d0f459ae4c936",
@@ -194,21 +194,21 @@
         "bin/_internal/VCRUNTIME140_1.dll": "6a99bc0128e0c7d6cbbf615fcc26909565e17d4ca3451b97f8987f9c6acbc6c8",
         "bin/guide-window.html": "0eaa0118fdbb39bff2942dab6df5b68cea4dd89f3effa412be407057333fbb6e",
         "bin/index.html": "978bb545d7367864493ef14ffeec2ebc2ad914313c7d40337aa03d175a823b79",
-        "bin/model-catalog.json": "3a5c8949319504152302d70af90be0b666fa061e7e2b14e07a199c9821bee07e",
-        "bin/model-guide.html": "c85f5a6ff3fe89e4b993b1b0d8c76fdf1219f640bc7185597d547e69f3122523",
-        "bin/MODEL-GUIDE.md": "1f559e2e21088677e6b670de0ad32fe10e88493a3784da5df1a53e69d5a149c7",
+        "bin/model-catalog.json": "a97397c3f68df36b967a4d7ddd73c5469098494169273e0ae44ba596853a2772",
+        "bin/model-guide.html": "a6e64d72fea35f64ba95a34597c0ad232d834370880877e41eb1e8eb2ecca287",
+        "bin/MODEL-GUIDE.md": "081d1aee9492ced197745cff50fbeb9edbb061024c359eacb2b148b26fd2ec10",
         "bin/PYTHON-LICENSE.txt": "935cf13e19f8c31b497d20b05d73623431a226b230c3599bc30fa3348979bc68",
         "bin/setup-guide.png": "6edb727f881190bbc3197196620a72a78b8cd5e5ea06948a279a69a72d2e56f4",
-        "bin/updream_gen.py": "5fa9d2203b03e648951b56862f43e6cb2c392625baf169fc7870b79795d316de",
+        "bin/updream_gen.py": "e49fe3b20186871c146021d0b5c43f8ca584b45b07cfe6bca8557b60776a82ff",
         "bin/updream_video.py": "a5607852afbee5039d07f1e7ca8acced9c318e1f2d33218319dd4704cb84d25e",
         "bin/UpdreamBridgeConfig.exe": "c5e4a665e73c1cc006de8e076c6086cd0de22dcfd2d61bc402df195e05e40f5d",
-        "bin/UpdreamBridgeWorker.exe": "436a7c7392cab9fdb0c98600ce6d8fa57b876cc77b0ea52121ac9af9ed7f0d4a",
+        "bin/UpdreamBridgeWorker.exe": "68db75d4b8eb90d624a636ebf74954989b2dde36712bb36d3204cdad5da422d7",
         "bin/VIDEO-GUIDE.md": "aa326efb150a05d6bef720cf8eed33b367402c2f8c81220896534c11056191ec",
         "bin/video-model-catalog.json": "5d7eb9598350a8e843bdc7d546be96ed44074d8a2af600940835d4c845d8acf4",
-        "DEVLOG.md": "18af203bd7e24cd1f4dbbe8e1a344f12241d6890efa821fa97964a6ee62c3c70",
+        "DEVLOG.md": "07c06eeb6c275eaa7c5676fb2302b9d4bcb9a418c6c2aca36997f4fd90cd1075",
         "LICENSE": "1eb85fc97224598dad1852b5d6483bbcf0aa8608790dcc657a5a2a761ae9c8c6",
-        "plugin.json": "1fcbc2dc3386729dad6f58cac5887fb607f40d660ea5a4adeca3c5996b0482e3",
-        "README.md": "840a8e596d54b3fd4cf653b1085ac3d6d114bec6e33a0960a8e7e7bb31faf08e"
+        "plugin.json": "4789cc5e7bf24cd0e254f90b95789637a56c8b55be17032316181ae481ffc685",
+        "README.md": "9f1a56cb4750875ae74b3a00349af121648725df628077d5928646b8c2fb09dc"
       }
     },
     {

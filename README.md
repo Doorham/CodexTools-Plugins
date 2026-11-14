@@ -2,10 +2,10 @@
 
 Codex 工具箱安装版的公共插件库。维护署名：Codex、Althy。
 
-工具箱安装或更新：[CodexTools 0.32.30 Setup](https://github.com/Doorham/CodexPlugins/releases/tag/toolbox-v0.32.30)。本次迁移先安装Setup，再将UDB更新至1.4.0；后续同协议UDB业务更新只更新插件。
+工具箱安装或更新：[CodexTools 0.32.30 Setup](https://github.com/Doorham/CodexPlugins/releases/tag/toolbox-v0.32.30)。UDB 最新为1.5.0，已使用工具箱0.32.30或更新版本时只更新插件；更早版本需先完成一次架构迁移。
 
 
-使用[当前正式安装版工具箱](https://github.com/Doorham/CodexPlugins/releases/latest)。本次UDB 1.4.0需要先安装工具箱0.32.30；各插件最低版本以目录条目为准。打开“插件中心”即可自动下载、解压并安装插件；“本机 → 更新插件”检查已安装插件，通常不必手动处理本页ZIP。无需安装Git、配置Python或登录GitHub，网络需能访问raw.githubusercontent.com。
+使用[当前正式安装版工具箱](https://github.com/Doorham/CodexPlugins/releases/latest)。UDB 1.5.0最低需要工具箱0.32.30，已满足时无需更新本体；各插件最低版本以目录条目为准。打开“插件中心”即可自动下载、解压并安装插件；“本机 → 更新插件”检查已安装插件，通常不必手动处理本页ZIP。无需安装Git、配置Python或登录GitHub，网络需能访问raw.githubusercontent.com。
 
 | 插件 | 版本 | 下载 |
 | --- | --- | --- |
@@ -16,7 +16,7 @@ Codex 工具箱安装版的公共插件库。维护署名：Codex、Althy。
 | Codex 对话 timeout 修复 | 1.1.3 | [ZIP](packages/codex-system-proxy/1.1.3.zip) |
 | Everything 路径排除 | 1.7.5 | [ZIP](packages/everything-exclusions/1.7.5.zip) |
 | 软件安装检查 | 1.5.10 | [ZIP](packages/software-environment-checker/1.5.10.zip) |
-| UpdreamBridge 图片与视频 | 1.4.0 | [ZIP](packages/updream-bridge/1.4.0.zip) |
+| UpdreamBridge 图片与视频 | 1.5.0 | [ZIP](packages/updream-bridge/1.5.0.zip) |
 | Updream 剪贴板清理 | 1.0.7 | [ZIP](packages/updream-clipboard-cleaner/1.0.7.zip) |
 | 微信语音监听板 | 2.1.1 | [ZIP](packages/wetype-awesun-bridge/2.1.1.zip) |
 
@@ -65,3 +65,5 @@ PowerShell 独立 MSI 配置：环境两项 1.5.10，见[交付记录](RELEASES/
 微信语音监听板 2.1.1：修复结束组合键交接，保留鼠标结束、长文和长期历史；见[更新记录](RELEASES/2026-11-04-wetype-2.1.1.md)。
 
 本轮交付与验证范围见 [0.32.30 与 UDB 1.4.0](RELEASES/2026-11-10-toolbox-0.32.30.md)。
+
+UDB 1.5.0 收录 Seedream 5.5，仅更新插件。见[更新说明](RELEASES/2026-11-15-updream-1.5.0.md)。
