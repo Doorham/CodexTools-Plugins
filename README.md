@@ -12,10 +12,10 @@ Codex 工具箱安装版的公共插件库。维护署名：Codex、Althy。
 | Arctis Nova 5 电量监控 | 1.0.5 | [ZIP](packages/arctis-nova-5-battery/1.0.5.zip) |
 | 国内网站直连 | 1.2.20 | [ZIP](packages/cn-proxy-bypass/1.2.20.zip) |
 | Codex 完成提示音 | 1.2.0 | [ZIP](packages/codex-answer-chime/1.2.0.zip) |
-| Codex 环境补全 | 1.5.10 | [ZIP](packages/codex-environment-helper/1.5.10.zip) |
+| Codex 环境补全 | 1.5.13 | [ZIP](packages/codex-environment-helper/1.5.13.zip) |
 | Codex 对话 timeout 修复 | 1.1.3 | [ZIP](packages/codex-system-proxy/1.1.3.zip) |
 | Everything 路径排除 | 1.7.5 | [ZIP](packages/everything-exclusions/1.7.5.zip) |
-| 软件安装检查 | 1.5.10 | [ZIP](packages/software-environment-checker/1.5.10.zip) |
+| 软件安装检查 | 1.5.13 | [ZIP](packages/software-environment-checker/1.5.13.zip) |
 | UpdreamBridge 图片与视频 | 1.5.0 | [ZIP](packages/updream-bridge/1.5.0.zip) |
 | Updream 剪贴板清理 | 1.0.7 | [ZIP](packages/updream-clipboard-cleaner/1.0.7.zip) |
 | 微信语音监听板 | 2.1.1 | [ZIP](packages/wetype-awesun-bridge/2.1.1.zip) |
@@ -67,3 +67,5 @@ PowerShell 独立 MSI 配置：环境两项 1.5.10，见[交付记录](RELEASES/
 本轮交付与验证范围见 [0.32.30 与 UDB 1.4.0](RELEASES/2026-11-10-toolbox-0.32.30.md)。
 
 UDB 1.5.0 收录 Seedream 5.5，仅更新插件。见[更新说明](RELEASES/2026-11-15-updream-1.5.0.md)。
+
+环境插件 1.5.13 支持自助安装；LibreOffice 成功导出并校验 PDF 后显示已就绪。[更新记录](RELEASES/2026-11-18-environment-pdf.md) · [源码](sources/environment-tools/1.5.13.zip)。
